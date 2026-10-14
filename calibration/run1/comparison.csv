@@ -1,0 +1,673 @@
+work,family,ingredient,claude,site,diff,abs_diff,claude_why
+The Iliad,Self,hunger,1,1,0,0,"Feasts and sacrifices punctuate the camp scenes, and Achilles refuses food in grief, but eating is never a problem the story turns on."
+The Iliad,Self,thirst,0,1,-1,1,"No character looks for water or lacks it; the river Scamander matters as a battlefield and a god, not as drink."
+The Iliad,Self,feeling-cold-hot,0,2,-2,2,"Hephaestus's fire scorches the plain and the river, but no character suffers from heat or cold as a threat."
+The Iliad,Self,sleepiness,1,2,-1,1,"Zeus is lulled to sleep by Hypnos, Agamemnon receives a false dream, and the night raid catches Thracians asleep; sleep is a minor device."
+The Iliad,Self,curiosity,0,2,-2,2,No one explores unfamiliar places; the whole action stays on the familiar plain between the ships and Troy.
+The Iliad,Self,explanation-seeking,1,2,-1,1,"Calchas explains the cause of the plague in Book 1 and seers read omens, but there is no sustained mystery to solve."
+The Iliad,Self,skill-acquisition,0,1,-1,1,"The heroes arrive fully formed; nobody trains or grows in skill, apart from Phoenix recalling how he raised Achilles."
+The Iliad,Self,play,2,1,1,1,"The funeral games for Patroclus in Book 23, with the chariot race, boxing, wrestling, and footrace, are an extended episode of contest as play."
+The Iliad,Self,resource-accumulation,2,4,-2,2,"Prizes, plunder, ransom, and stripped armor drive the quarrel over Briseis and the gifts Agamemnon offers Achilles."
+The Iliad,Self,resource-foraging,0,1,-1,1,"No character searches for scarce resources; wealth comes from sacking and prizes, not from seeking."
+The Iliad,Self,mental-time-travel,2,3,-1,1,"Achilles weighs a short glorious life against a long obscure one, Hector foresees Troy's fall, and Zeus plans the war's course."
+The Iliad,Threats,fear-of-predators,0,0,0,0,Lions and wolves appear only in similes; no character is actually threatened by an animal or monster.
+The Iliad,Threats,fear-of-aggressors,3,4,-1,1,"Hector drives the Greeks back to their ships, Achilles routs the Trojans, and every book is shaped by armed men attacking each other."
+The Iliad,Threats,fear-of-heights,0,1,-1,1,"Helen views the field from the walls and the gods watch from Ida, but no one faces a fall or vertigo."
+The Iliad,Threats,disgust,1,3,-2,2,"Apollo's plague opens the poem, and flies and dogs threaten the corpses of Patroclus and Hector, but contamination is a minor note."
+The Iliad,Threats,pain-aversion,3,4,-1,1,"Wounds are described spear by spear: Diomedes, Agamemnon, and Odysseus are injured, and hundreds of named deaths are rendered in bodily detail."
+The Iliad,Cooperation,pride,3,4,-1,1,"Diomedes's aristeia, Hector's triumphs, and Achilles's incomparable prowess win recognition; glory before one's peers motivates every warrior."
+The Iliad,Cooperation,shame,2,4,-2,2,Hector refuses to retreat inside the walls because he would be ashamed before the Trojan men and women after his failures.
+The Iliad,Cooperation,moral-pride,2,2,0,0,"Hector stands by his duty to defend Troy although he knows it is doomed, and Achilles refuses to be bought back into line."
+The Iliad,Cooperation,guilt,2,2,0,0,"Achilles blames himself for sending Patroclus to die, Helen reproaches herself, and Agamemnon admits his delusion."
+The Iliad,Cooperation,warmth,2,3,-1,1,"Patroclus is remembered as gentle to all, Hector is tender with Andromache, and Achilles and Priam weep together."
+The Iliad,Cooperation,moral-blame,2,4,-2,2,"Achilles denounces Agamemnon's greed, Hector rebukes Paris, and Menelaus's cause is the wrong Paris did him."
+The Iliad,Cooperation,moral-praise,2,4,-2,2,"The Trojans mourn Hector as kind and brave and the Greeks honor Patroclus, but praise for goodness is secondary to glory in battle."
+The Iliad,Cooperation,revenge,3,4,-1,1,"Achilles returns to battle to avenge Patroclus, kills Hector, and drags his corpse; the whole Trojan expedition avenges Helen's abduction."
+The Iliad,Cooperation,forgiveness,2,1,1,1,"Achilles ends his quarrel with Agamemnon and finally releases Hector's body to Priam, letting go of his rage in Book 24."
+The Iliad,Cooperation,compassion,3,3,0,0,"Patroclus weeps for the wounded Greeks, Zeus pities Hector, and Achilles takes pity on the grieving Priam, the poem's emotional climax."
+The Iliad,Cooperation,affiliation,1,4,-3,3,"Diomedes and Glaucus exchange armor as guest-friends, but seeking new companions is not a motive in the poem."
+The Iliad,Cooperation,friendship,3,4,-1,1,The bond between Achilles and Patroclus drives the second half: Patroclus's death is what brings Achilles back to war.
+The Iliad,Cooperation,sadness,3,4,-1,1,"Achilles's grief for Patroclus, Thetis's lament, and the mourning of Priam, Hecuba, Andromache, and Helen over Hector close the poem."
+The Iliad,Cooperation,humor,1,1,0,0,"Thersites's mockery, the gods' squabbles, and Hephaestus limping to serve drinks give brief comic relief."
+The Iliad,Cooperation,embarrassment,1,3,-2,2,"Paris is shamed before the armies when he is rescued from his duel, a small moment of social exposure."
+The Iliad,Cooperation,reasoning,2,3,-1,1,"The assembly quarrel, the embassy speeches of Odysseus, Phoenix, and Ajax, and Polydamas's counsel to Hector are set-piece debates."
+The Iliad,Cooperation,coalitional-affiliation,3,4,-1,1,The Greek coalition under Agamemnon and the Trojans with their allies define loyalties; contingents fight and are rallied as groups.
+The Iliad,Competition,status-seeking,3,4,-1,1,"The quarrel is about honor and rank: Agamemnon asserts his authority, Achilles demands due respect, and heroes seek glory."
+The Iliad,Competition,envy,1,3,-2,2,"Agamemnon resents Achilles's preeminence, but envy as such is barely developed."
+The Iliad,Competition,anger,4,4,0,0,The poem announces its subject as the wrath of Achilles; his rage at Agamemnon and then at Hector drives the action.
+The Iliad,Competition,hatred,2,3,-1,1,Achilles wishes he could eat Hector raw and mutilates his body; Hera and Athena seek Troy's destruction.
+The Iliad,Mating,romantic-affiliation,2,2,0,0,Paris and Helen's bond and Achilles's declared love for Briseis are present but secondary to war.
+The Iliad,Mating,sexual-attraction,2,2,0,0,"Paris takes Helen to bed after his duel, and Hera seduces Zeus on Mount Ida to distract him."
+The Iliad,Mating,long-term-love,2,4,-2,2,Hector and Andromache's farewell shows a committed marriage facing loss; it is a central scene but one strand.
+The Iliad,Mating,desire,1,1,0,0,Paris prefers bed to battle and Zeus recites his past conquests; uncommitted pursuit is a minor note.
+The Iliad,Mating,romantic-jealousy,2,1,1,1,"Menelaus wars to recover Helen from Paris, and Hera resents Zeus's lovers; rivalry over partners underlies the conflict."
+The Iliad,Mating,sexual-jealousy,2,1,1,1,"Helen's infidelity with Paris is the cause of the war, and Agamemnon's taking of Briseis wounds Achilles."
+The Iliad,Mating,sexual-disgust,1,0,1,1,"Captive women such as Briseis and Chryseis are taken as concubines, but the poem does not treat these relations as disturbing."
+The Iliad,Kin,kin-sexual-disgust,0,0,0,0,No incestuous relationship appears in the poem.
+The Iliad,Kin,parental-care,2,4,-2,2,"Thetis protects Achilles and brings him armor, Hector reassures the frightened Astyanax, and Priam risks his life for Hector's body."
+The Iliad,Kin,parental-investment,1,1,0,0,"Phoenix recalls raising Achilles and Hector prays for Astyanax's future, but child-rearing is marginal."
+The Iliad,Kin,familial-love,3,3,0,0,"Hector with Andromache and Astyanax, Priam and Hecuba for Hector, Thetis for Achilles, and Agamemnon for Menelaus form the poem's family bonds."
+The Tale of Genji,Self,hunger,0,0,0,0,"Food is almost absent; court banquets are occasions for poetry and music, never for appetite."
+The Tale of Genji,Self,thirst,0,0,0,0,No character seeks water or lacks it.
+The Tale of Genji,Self,feeling-cold-hot,0,1,-1,1,"Seasons are evoked for mood, and the Suma storms are rain and lightning, not temperature that threatens anyone."
+The Tale of Genji,Self,sleepiness,0,1,-1,1,"Night visits and dawn partings structure affairs, but fatigue is not itself a concern."
+The Tale of Genji,Self,curiosity,1,2,-1,1,"Genji's exile to Suma and Akashi and the later visits to Uji take characters into unfamiliar places, but exploration is incidental."
+The Tale of Genji,Self,explanation-seeking,2,1,1,1,"Kaoru pieces together the secret of his birth, and Genji detects the hidden affair of the Third Princess; secrets are gradually uncovered."
+The Tale of Genji,Self,skill-acquisition,2,3,-1,1,"Genji trains Murasaki in calligraphy and the koto, teaches the Third Princess music, and accomplishments in verse and dance are constantly cultivated."
+The Tale of Genji,Self,play,2,2,0,0,"Utsusemi's game of go, the kickball match where Kashiwagi glimpses the Third Princess, the picture and incense contests are courtly play."
+The Tale of Genji,Self,resource-accumulation,1,2,-1,1,"Genji builds the great Rokujo estate and the Akashi family's wealth supports its ambitions, but acquiring riches is a background matter."
+The Tale of Genji,Self,resource-foraging,0,0,0,0,No one searches for scarce resources.
+The Tale of Genji,Self,mental-time-travel,2,3,-1,1,"Genji plans Murasaki's upbringing and the Akashi daughter's path to empress, and the aging characters dwell on the past."
+The Tale of Genji,Threats,fear-of-predators,1,1,0,0,"The living spirit of Lady Rokujo possesses and kills Yugao and Aoi, a supernatural rather than animal threat."
+The Tale of Genji,Threats,fear-of-aggressors,1,1,0,0,Physical violence is almost absent; the Kokiden faction persecutes Genji politically and drives him into exile.
+The Tale of Genji,Threats,fear-of-heights,0,0,0,0,No heights or falls appear.
+The Tale of Genji,Threats,disgust,1,2,-1,1,"Yugao's sudden corpse, Kashiwagi's wasting illness, and the possessions bring sickness and death, treated with pathos rather than revulsion."
+The Tale of Genji,Threats,pain-aversion,1,0,1,1,"Genji's fever at Kitayama and Kashiwagi's fatal illness involve bodily suffering, but briefly."
+The Tale of Genji,Cooperation,pride,3,4,-1,1,"Genji's dance of the Waves of the Blue Sea, his poetry, and his beauty are admired by the whole court; the Shining Prince is defined by recognized excellence."
+The Tale of Genji,Cooperation,shame,3,4,-1,1,"Discovery with Oborozukiyo shames Genji into exile, Kashiwagi dies of shame when Genji learns of his affair, and Ukifune hides from exposure."
+The Tale of Genji,Cooperation,moral-pride,1,2,-1,1,"Genji's constancy in supporting every woman he has loved, even the plain Suetsumuhana, is held up as a kind of virtue."
+The Tale of Genji,Cooperation,guilt,3,3,0,0,Genji is haunted by fathering Reizei on his stepmother Fujitsubo and sees his own wrong repaid when Kashiwagi seduces his wife.
+The Tale of Genji,Cooperation,warmth,2,3,-1,1,Genji's tenderness toward his women and Murasaki's kindness to the Akashi child soften the court's intrigues.
+The Tale of Genji,Cooperation,moral-blame,1,2,-1,1,"Court gossip condemns Genji's conduct, and Murasaki quietly reproaches his betrayals, but judgment is muted."
+The Tale of Genji,Cooperation,moral-praise,1,4,-3,3,"Genji is praised for grace and generosity, though more for beauty and talent than for goodness."
+The Tale of Genji,Cooperation,revenge,1,3,-2,2,"The Kokiden faction punishes Genji with exile, and Rokujo's spirit strikes her rivals, but deliberate vengeance is rare."
+The Tale of Genji,Cooperation,forgiveness,1,1,0,0,The emperor pardons Genji and recalls him from exile; otherwise wrongs are endured rather than forgiven.
+The Tale of Genji,Cooperation,compassion,2,1,1,1,"Genji takes in the orphaned Murasaki and the destitute Suetsumuhana, and Kaoru cares for the Uji princesses and Ukifune."
+The Tale of Genji,Cooperation,affiliation,1,1,0,0,"Genji's companionship with To no Chujo and Kaoru's with Niou are given, not sought."
+The Tale of Genji,Cooperation,friendship,2,3,-1,1,"Genji and To no Chujo are rivals and intimates through life, and Kaoru and Niou's friendship frames the Uji chapters."
+The Tale of Genji,Cooperation,sadness,4,4,0,0,"The deaths of Kiritsubo, Yugao, Aoi, Fujitsubo, and Murasaki, Genji's long mourning, and Ukifune's despair make loss and impermanence the tale's pervasive mood."
+The Tale of Genji,Cooperation,humor,1,1,0,0,Suetsumuhana's red nose and the amorous old lady Naishi provide comic episodes.
+The Tale of Genji,Cooperation,embarrassment,2,2,0,0,"Genji is caught in Oborozukiyo's rooms, Suetsumuhana's gifts embarrass him, and many scenes turn on awkward exposure."
+The Tale of Genji,Cooperation,reasoning,1,3,-2,2,"The rainy-night ranking of women and the endless poetic repartee are verbal contests, but not real argument."
+The Tale of Genji,Cooperation,coalitional-affiliation,1,1,0,0,"The Kokiden faction and Genji's side form rival court camps, though group identity is thin."
+The Tale of Genji,Competition,status-seeking,3,4,-1,1,"Rank governs everything: Genji rises to honorary retired emperor, families marry daughters to emperors, and To no Chujo competes for precedence."
+The Tale of Genji,Competition,envy,2,3,-1,1,"Kokiden envies the favored Kiritsubo, and Genji's women envy each other's standing."
+The Tale of Genji,Competition,anger,2,2,0,0,"Lady Rokujo's suppressed rage takes form as a murderous spirit, and Kokiden's anger drives Genji's exile."
+The Tale of Genji,Competition,hatred,2,3,-1,1,The Kokiden faction hounds Kiritsubo to death and delights in Genji's disgrace.
+The Tale of Genji,Mating,romantic-affiliation,4,4,0,0,"Genji's courtships of Fujitsubo, Yugao, Murasaki, the Akashi lady, and many others, then Kaoru's and Niou's, are the tale's substance."
+The Tale of Genji,Mating,sexual-attraction,3,4,-1,1,"Genji is drawn to the beauty of Fujitsubo, Yugao, and Oborozukiyo, and the narrative lingers on glimpses of women."
+The Tale of Genji,Mating,long-term-love,3,1,2,2,"Genji's bond with Murasaki lasts decades until her death, the tale's deepest commitment."
+The Tale of Genji,Mating,desire,3,3,0,0,"Genji pursues Utsusemi, Yugao, Oborozukiyo, and others without commitment, and Niou later does the same."
+The Tale of Genji,Mating,romantic-jealousy,3,3,0,0,"Murasaki suffers over the Akashi lady and the Third Princess, Rokujo over Aoi; jealousy is a recurring engine of grief."
+The Tale of Genji,Mating,sexual-jealousy,2,3,-1,1,"Rokujo's spirit kills Aoi, and Genji's discovery of Kashiwagi's affair with his wife poisons his last years."
+The Tale of Genji,Mating,sexual-disgust,2,3,-1,1,"Genji's affair with his stepmother Fujitsubo, his taking of the child Murasaki, and Niou's forcing of Ukifune are treated as sinful or wounding."
+The Tale of Genji,Kin,kin-sexual-disgust,2,0,2,2,"Fujitsubo cuts off the affair with her stepson and takes vows, and Tamakazura resists her adoptive father Genji's advances."
+The Tale of Genji,Kin,parental-care,2,3,-1,1,Genji shelters the child Murasaki and oversees the Akashi daughter's upbringing; Yugiri is watched over strictly.
+The Tale of Genji,Kin,parental-investment,2,4,-2,2,Genji educates Murasaki to be an ideal wife and grooms the Akashi daughter for the throne; Yugiri is made to study.
+The Tale of Genji,Kin,familial-love,2,4,-2,2,"Genji mourns his mother, serves his father, secretly fathers an emperor, and the Akashi family's ties bind the later chapters."
+The Song of Roland,Self,hunger,0,1,-1,1,No character seeks or enjoys food.
+The Song of Roland,Self,thirst,0,0,0,0,"No character seeks water, though Roland dies by a stream."
+The Song of Roland,Self,feeling-cold-hot,0,1,-1,1,No extreme heat or cold threatens anyone.
+The Song of Roland,Self,sleepiness,1,2,-1,1,"Charlemagne's prophetic dreams come to him in sleep, but fatigue is not a concern."
+The Song of Roland,Self,curiosity,0,0,0,0,No one explores unfamiliar places; the army crosses known passes.
+The Song of Roland,Self,explanation-seeking,0,4,-4,4,"Charlemagne's dreams foreshadow treachery, but no mystery is investigated."
+The Song of Roland,Self,skill-acquisition,0,2,-2,2,The knights are already masters; no one trains or improves.
+The Song of Roland,Self,play,0,1,-1,1,No play or games appear.
+The Song of Roland,Self,resource-accumulation,1,3,-2,2,"Marsile bribes Ganelon with gold and offers Charlemagne treasure; wealth is a tool of treachery, not a goal."
+The Song of Roland,Self,resource-foraging,0,1,-1,1,No one searches for scarce resources.
+The Song of Roland,Self,mental-time-travel,1,3,-2,2,"Ganelon plots the ambush and Charlemagne's dreams foretell the future, but planning is brief."
+The Song of Roland,Threats,fear-of-predators,1,0,1,1,A bear and a leopard attack Charlemagne in his dream; animals threaten no one awake.
+The Song of Roland,Threats,fear-of-aggressors,4,4,0,0,"The Saracen ambush at Roncevaux, wave after wave against the rear guard, then Charlemagne's battles with Marsile and Baligant, fill the poem."
+The Song of Roland,Threats,fear-of-heights,0,1,-1,1,"The Pyrenean passes are high, but no one risks a fall."
+The Song of Roland,Threats,disgust,0,3,-3,3,"No rot, disease, or contamination threatens a character."
+The Song of Roland,Threats,pain-aversion,3,4,-1,1,"Blow by blow the poem records split helmets and bodies, Oliver's death wound, and Roland bursting his temple blowing the oliphant."
+The Song of Roland,Cooperation,pride,3,4,-1,1,"Roland's prowess is proclaimed on every side, and his refusal to sound the horn rests on confidence in his own excellence."
+The Song of Roland,Cooperation,shame,3,4,-1,1,Roland will not blow the horn because no one shall sing that he called for help out of fear; dread of disgrace seals his fate.
+The Song of Roland,Cooperation,moral-pride,3,4,-1,1,"Roland and the peers die for Charlemagne and Christendom rather than yield, and Thierry fights Pinabel to uphold the right."
+The Song of Roland,Cooperation,guilt,1,2,-1,1,Roland grieves over the dead peers but never truly blames himself; Oliver's reproach stands in for guilt.
+The Song of Roland,Cooperation,warmth,2,3,-1,1,"Roland carries the bodies of the peers to Turpin and weeps over them, and Turpin blesses the dying."
+The Song of Roland,Cooperation,moral-blame,3,4,-1,1,"Ganelon's treason is condemned and tried before Charlemagne, with Thierry's victory proving his guilt."
+The Song of Roland,Cooperation,moral-praise,2,4,-2,2,Angels bear Roland's soul to heaven and the poem celebrates him as a martyr of the faith.
+The Song of Roland,Cooperation,revenge,3,4,-1,1,"Ganelon betrays Roland to pay him back, and Charlemagne destroys the Saracens and has Ganelon torn apart to avenge the rear guard."
+The Song of Roland,Cooperation,forgiveness,1,1,0,0,Roland forgives Oliver when the blinded Oliver strikes him; otherwise there is no reconciliation.
+The Song of Roland,Cooperation,compassion,1,3,-2,2,"Roland weeps for his men and Charlemagne laments over the dead, but pity for the weak is not a motive."
+The Song of Roland,Cooperation,affiliation,0,3,-3,3,No one seeks new companions.
+The Song of Roland,Cooperation,friendship,3,4,-1,1,"Roland and Oliver, the twelve peers, fight and die side by side; their companionship anchors the battle."
+The Song of Roland,Cooperation,sadness,3,4,-1,1,Charlemagne's lament over Roland's body and Aude's death at the news are extended scenes of grief.
+The Song of Roland,Cooperation,humor,0,1,-1,1,There is no humor in the poem.
+The Song of Roland,Cooperation,embarrassment,0,3,-3,3,No social embarrassment occurs.
+The Song of Roland,Cooperation,reasoning,2,3,-1,1,"The council debates Marsile's offer, Roland and Oliver argue about the horn, and the trial of Ganelon is argued before the barons."
+The Song of Roland,Cooperation,coalitional-affiliation,3,4,-1,1,"Christians against pagans, Franks against Saracens: the poem states that pagans are wrong and Christians are right, and loyalty to the group is absolute."
+The Song of Roland,Competition,status-seeking,2,4,-2,2,"Roland's renown and his place as Charlemagne's champion are at stake, though pride expresses it more than ambition."
+The Song of Roland,Competition,envy,1,4,-3,3,"Ganelon resents Roland's favor and wealth, a seed of the betrayal."
+The Song of Roland,Competition,anger,3,4,-1,1,"Ganelon's fury at being named envoy, Roland's battle rage, and Charlemagne's wrath against the Saracens drive the action."
+The Song of Roland,Competition,hatred,3,3,0,0,"Ganelon hates Roland enough to sell him to the enemy, and Christians and Saracens exult in each other's deaths."
+The Song of Roland,Mating,romantic-affiliation,1,1,0,0,"Aude is Roland's betrothed, mentioned briefly."
+The Song of Roland,Mating,sexual-attraction,0,1,-1,1,No sexual attraction appears.
+The Song of Roland,Mating,long-term-love,1,4,-3,3,"Aude dies on hearing of Roland's death, a single scene of devoted commitment."
+The Song of Roland,Mating,desire,0,1,-1,1,No uncommitted pursuit appears.
+The Song of Roland,Mating,romantic-jealousy,0,1,-1,1,No romantic rivalry appears.
+The Song of Roland,Mating,sexual-jealousy,0,1,-1,1,No sexual rivalry appears.
+The Song of Roland,Mating,sexual-disgust,0,0,0,0,No inappropriate sexual relationship appears.
+The Song of Roland,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+The Song of Roland,Kin,parental-care,0,3,-3,3,No child is protected.
+The Song of Roland,Kin,parental-investment,0,2,-2,2,No child is raised.
+The Song of Roland,Kin,familial-love,2,4,-2,2,"Ganelon is Roland's stepfather, Charlemagne loves Roland as his nephew, and Aude is Oliver's sister; kinship frames the betrayal."
+Journey to the West,Self,hunger,3,3,0,0,"Pigsy's bottomless appetite, the pilgrims begging for meals, Monkey gorging on the peaches of immortality, and demons craving Tripitaka's flesh keep food in view."
+Journey to the West,Self,thirst,1,2,-1,1,The pilgrims drink from the river of the Women's Kingdom and become pregnant; otherwise water is rarely an issue.
+Journey to the West,Self,feeling-cold-hot,2,3,-1,1,The Flaming Mountain blocks the road with unbearable heat until Monkey wins the palm-leaf fan.
+Journey to the West,Self,sleepiness,1,2,-1,1,"Pigsy dozes when sent to scout and the pilgrims are often weary, a minor comic note."
+Journey to the West,Self,curiosity,3,3,0,0,"Every chapter brings a new kingdom, mountain, or cave, and Monkey scouts each unfamiliar land ahead of the party."
+Journey to the West,Self,explanation-seeking,2,2,0,0,Monkey sees through disguised demons such as the White Bone Spirit and uncovers the false king of the Black Rooster Kingdom.
+Journey to the West,Self,skill-acquisition,2,4,-2,2,"Monkey learns immortality, the seventy-two transformations, and the cloud somersault from Subhuti before the journey begins."
+Journey to the West,Self,play,2,4,-2,2,"Monkey's mischief in Heaven and his pranks on Pigsy are playful, and the Monkey King's early rule is a kind of game."
+Journey to the West,Self,resource-accumulation,2,2,0,0,Monkey takes the golden staff and armor from the Dragon King and seizes demons' magic gourds and treasures.
+Journey to the West,Self,resource-foraging,2,3,-1,1,"The quest itself is a search for the scriptures, and episodes turn on finding the fan, water, or food in hostile lands."
+Journey to the West,Self,mental-time-travel,2,1,1,1,"Monkey devises stratagems against each demon, and the pilgrims are told their journey will take eighty-one ordeals."
+Journey to the West,Threats,fear-of-predators,4,4,0,0,"Demon after demon, from the White Bone Spirit to the spider women, tries to capture and eat Tripitaka to gain immortality."
+Journey to the West,Threats,fear-of-aggressors,3,4,-1,1,"Monkey battles Heaven's armies, and the pilgrims fight demon hosts and hostile kings throughout."
+Journey to the West,Threats,fear-of-heights,1,3,-2,2,"Monkey somersaults through the clouds and the party crosses mountains, but falls are not feared."
+Journey to the West,Threats,disgust,1,3,-2,2,"Demon lairs strewn with bones, the Women's Kingdom pregnancies, and Pigsy's filth add occasional grossness."
+Journey to the West,Threats,pain-aversion,2,3,-1,1,"Tripitaka tightens the headband spell to torment Monkey, and the fights leave wounds; suffering is real but comic."
+Journey to the West,Cooperation,pride,3,4,-1,1,Monkey proclaims himself Great Sage Equal to Heaven and glories in beating every rival.
+Journey to the West,Cooperation,shame,2,3,-1,1,"Monkey weeps when Tripitaka dismisses him, and Pigsy is repeatedly caught in disgrace."
+Journey to the West,Cooperation,moral-pride,2,4,-2,2,"Tripitaka refuses to harm any being even when it endangers him, and Monkey's loyalty to his master holds despite mistreatment."
+Journey to the West,Cooperation,guilt,1,2,-1,1,Monkey shows little remorse for his rebellion; guilt is rare in the novel.
+Journey to the West,Cooperation,warmth,2,3,-1,1,"Guanyin's mercy and Tripitaka's kindness to strangers recur, even when misplaced."
+Journey to the West,Cooperation,moral-blame,2,4,-2,2,"Tripitaka condemns Monkey for killing the disguised White Bone Spirit, and the pilgrims expose corrupt kings and false monks."
+Journey to the West,Cooperation,moral-praise,2,4,-2,2,"The pilgrims are rewarded with Buddhahood for completing the journey, and kingdoms thank them for ridding them of demons."
+Journey to the West,Cooperation,revenge,2,3,-1,1,"Red Boy's kin and the Bull Demon King seek to repay Monkey, and Monkey settles old scores from his rebellion."
+Journey to the West,Cooperation,forgiveness,2,4,-2,2,"Tripitaka takes Monkey back after each dismissal, and Buddha's mercy ends Monkey's punishment under the mountain."
+Journey to the West,Cooperation,compassion,2,4,-2,2,"Tripitaka pities every creature, and the pilgrims rescue villages, children, and prisoners from demons."
+Journey to the West,Cooperation,affiliation,2,4,-2,2,"Tripitaka gathers Monkey, Pigsy, Sandy, and the dragon horse as companions in the early chapters."
+Journey to the West,Cooperation,friendship,3,4,-1,1,"The bickering fellowship of Monkey, Pigsy, and Sandy, loyal through eighty-one ordeals, carries the book."
+Journey to the West,Cooperation,sadness,1,2,-1,1,Grief is brief and quickly overturned; Monkey's tears at dismissal are the main instance.
+Journey to the West,Cooperation,humor,3,4,-1,1,"Pigsy's gluttony and lechery, Monkey's tricks, and the constant squabbling make the novel a comedy."
+Journey to the West,Cooperation,embarrassment,2,3,-1,1,Pigsy is exposed in his lust when the bodhisattvas test him and is left tied in the trees.
+Journey to the West,Cooperation,reasoning,1,4,-3,3,"Monkey talks his way past demons and argues with Heaven's officials, but debate is incidental."
+Journey to the West,Cooperation,coalitional-affiliation,2,4,-2,2,"The pilgrim band and the celestial hierarchy form groups, and demons often ally against the party."
+Journey to the West,Competition,status-seeking,3,4,-1,1,Monkey rebels because Heaven makes him a stable boy and demands the title Great Sage Equal to Heaven.
+Journey to the West,Competition,envy,1,3,-2,2,"Monkey resents the immortals' privileges, but envy is not sustained."
+Journey to the West,Competition,anger,3,4,-1,1,"Monkey's rage against Heaven and against demons, and Tripitaka's anger at Monkey, fuel many episodes."
+Journey to the West,Competition,hatred,1,3,-2,2,"Monkey enjoys the downfall of demons, but gloating is minor."
+Journey to the West,Mating,romantic-affiliation,2,1,1,1,Pigsy's marriage at Gao village and the queen of the Women's Kingdom wanting to wed Tripitaka are comic episodes.
+Journey to the West,Mating,sexual-attraction,2,1,1,1,"Pigsy lusts after every woman, and female demons use beauty to seduce the pilgrims."
+Journey to the West,Mating,long-term-love,1,2,-1,1,"The Bull Demon King and Princess Iron Fan are a married couple, but committed love is incidental."
+Journey to the West,Mating,desire,2,4,-2,2,"Pigsy's lechery is a running joke, from his fall from Heaven for harassing the Moon Goddess onward."
+Journey to the West,Mating,romantic-jealousy,1,1,0,0,"Princess Iron Fan resents the Bull Demon King's concubine, a brief episode."
+Journey to the West,Mating,sexual-jealousy,1,1,0,0,The same marital quarrel over the Jade-Faced Fox is the only instance.
+Journey to the West,Mating,sexual-disgust,2,2,0,0,"The scorpion demon and other she-monsters try to force Tripitaka into their beds, which he resists with horror."
+Journey to the West,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+Journey to the West,Kin,parental-care,1,2,-1,1,Red Boy's parents fight for him and the pilgrims rescue children offered to demons.
+Journey to the West,Kin,parental-investment,1,2,-1,1,"Subhuti and then Tripitaka teach and discipline Monkey as a master does a disciple, a parental echo at most."
+Journey to the West,Kin,familial-love,1,2,-1,1,"The Bull Demon King's family and Tripitaka's recovered parents appear, but family bonds are marginal."
+Hamlet,Self,hunger,0,1,-1,1,"Hamlet jokes that the funeral meats furnished the wedding table, but no one seeks or lacks food."
+Hamlet,Self,thirst,0,0,0,0,"No one seeks water; the poisoned cup is a weapon, not drink."
+Hamlet,Self,feeling-cold-hot,1,1,0,0,"The sentinels complain of the bitter cold on the battlements, a passing detail."
+Hamlet,Self,sleepiness,1,2,-1,1,"Hamlet muses on sleep and dreams in his soliloquy, and the watch keeps night vigils, but fatigue is not a concern."
+Hamlet,Self,curiosity,0,2,-2,2,No one explores unfamiliar places; Hamlet's sea voyage happens offstage.
+Hamlet,Self,explanation-seeking,3,4,-1,1,"Hamlet stages the Mousetrap to test whether the ghost told the truth about Claudius, and the court tries to explain his madness."
+Hamlet,Self,skill-acquisition,0,2,-2,2,"Hamlet mentions keeping in fencing practice, but no one trains or grows in skill."
+Hamlet,Self,play,1,2,-1,1,"The players' performance and the fencing match are performances rather than play, and Hamlet recalls Yorick's games only in memory."
+Hamlet,Self,resource-accumulation,1,4,-3,3,"Claudius has gained the crown and queen, but wealth is not pursued."
+Hamlet,Self,resource-foraging,0,2,-2,2,No one searches for resources.
+Hamlet,Self,mental-time-travel,3,4,-1,1,"Hamlet's soliloquies weigh past wrongs and future action, he plans the Mousetrap and spares Claudius at prayer to time his revenge."
+Hamlet,Threats,fear-of-predators,0,0,0,0,No animal or monster threatens anyone.
+Hamlet,Threats,fear-of-aggressors,2,4,-2,2,"Claudius sends Hamlet to be killed in England, and the duel with Laertes is rigged with a poisoned blade."
+Hamlet,Threats,fear-of-heights,1,0,1,1,"Horatio fears the cliff that beetles over the sea may drive Hamlet mad, and Ophelia falls into the brook."
+Hamlet,Threats,disgust,2,0,2,2,"Something is rotten in Denmark: Yorick's skull, Polonius's corpse eaten by worms, and Hamlet's loathing of Gertrude's enseamed bed."
+Hamlet,Threats,pain-aversion,1,4,-3,3,"Stabbings and poisonings end the play, but bodily suffering is not dwelt on."
+Hamlet,Cooperation,pride,1,4,-3,3,"Laertes's fencing reputation is praised, but achievement and recognition are minor."
+Hamlet,Cooperation,shame,2,4,-2,2,Hamlet berates himself as a rogue and peasant slave for inaction and tries to shame Gertrude in her closet.
+Hamlet,Cooperation,moral-pride,1,4,-3,3,"Horatio's loyalty and Hamlet's refusal to act without proof touch on principle, but at little cost."
+Hamlet,Cooperation,guilt,3,4,-1,1,"Claudius confesses that his offence is rank and cannot pray, Gertrude sees black spots in her soul, and Hamlet has killed Polonius."
+Hamlet,Cooperation,warmth,1,2,-1,1,Horatio's steady devotion and Hamlet's fond memory of Yorick are small warmths in a cold court.
+Hamlet,Cooperation,moral-blame,3,4,-1,1,Hamlet condemns Claudius as a murderer and Gertrude for her hasty marriage; the ghost demands judgment on the crime.
+Hamlet,Cooperation,moral-praise,1,3,-2,2,"Hamlet praises his dead father and Horatio's integrity, and Fortinbras orders a soldier's honors for Hamlet."
+Hamlet,Cooperation,revenge,4,4,0,0,"The ghost's command to avenge his murder drives Hamlet, and Laertes's revenge for Polonius and Ophelia brings the catastrophe."
+Hamlet,Cooperation,forgiveness,1,1,0,0,Hamlet and Laertes exchange forgiveness as they die.
+Hamlet,Cooperation,compassion,1,2,-1,1,"Pity for the mad Ophelia and for Hamlet's state is voiced, but caring for the vulnerable is not a motive."
+Hamlet,Cooperation,affiliation,0,4,-4,4,No one seeks new companions.
+Hamlet,Cooperation,friendship,2,4,-2,2,"Horatio is Hamlet's one true friend, while Rosencrantz and Guildenstern betray him."
+Hamlet,Cooperation,sadness,3,4,-1,1,"Hamlet's mourning for his father, Ophelia's madness and drowning, Laertes's grief, and the graveyard scene saturate the play with loss."
+Hamlet,Cooperation,humor,2,2,0,0,"The gravediggers, Hamlet's barbed wit with Polonius, and the foppish Osric supply dark comedy."
+Hamlet,Cooperation,embarrassment,1,2,-1,1,"Hamlet's lewd jokes make Ophelia squirm at the play, a minor social discomfort."
+Hamlet,Cooperation,reasoning,2,4,-2,2,"Hamlet's wordplay with Polonius, Rosencrantz, and Claudius and the argued soliloquies are verbal fencing."
+Hamlet,Cooperation,coalitional-affiliation,1,4,-3,3,"Denmark faces Norway and Fortinbras, but group identity is background."
+Hamlet,Competition,status-seeking,2,4,-2,2,"Claudius has seized the throne that Hamlet expected, and he names it among his grievances."
+Hamlet,Competition,envy,2,3,-1,1,Claudius coveted his brother's crown and queen; the murder sprang from wanting what another had.
+Hamlet,Competition,anger,3,4,-1,1,"Hamlet rages at Gertrude in the closet, Laertes storms the palace in fury, and the duel is fought in heat."
+Hamlet,Competition,hatred,2,2,0,0,"Hamlet loathes Claudius and wishes him damned, not merely dead."
+Hamlet,Mating,romantic-affiliation,2,3,-1,1,"Hamlet's courtship of Ophelia, recalled in her letters and his cruel rejection, is a secondary thread."
+Hamlet,Mating,sexual-attraction,2,3,-1,1,Hamlet is obsessed with his mother's sexuality and taunts Ophelia with bawdy jokes.
+Hamlet,Mating,long-term-love,1,4,-3,3,"The ghost recalls his devoted marriage to Gertrude, which her remarriage betrays."
+Hamlet,Mating,desire,1,3,-2,2,Claudius's lust is implied; uncommitted pursuit is not shown.
+Hamlet,Mating,romantic-jealousy,1,2,-1,1,Hamlet's possessiveness toward Gertrude's affections shades into jealousy of Claudius.
+Hamlet,Mating,sexual-jealousy,1,3,-2,2,"Hamlet dwells on Claudius in his mother's bed, a rival he cannot bear."
+Hamlet,Mating,sexual-disgust,3,4,-1,1,Hamlet is revolted by Gertrude and Claudius's incestuous sheets and the rank sweat of their bed.
+Hamlet,Kin,kin-sexual-disgust,2,4,-2,2,Hamlet and the ghost call Gertrude's marriage to her brother-in-law incest and recoil from it.
+Hamlet,Kin,parental-care,2,4,-2,2,"Polonius guards Ophelia from Hamlet, Gertrude worries over her son, and the ghost shields Gertrude from Hamlet's fury."
+Hamlet,Kin,parental-investment,1,3,-2,2,Polonius lectures Laertes with precepts for his life abroad.
+Hamlet,Kin,familial-love,3,4,-1,1,"Hamlet's devotion to his father, Laertes's love for Ophelia and Polonius, and Hamlet's tortured bond with Gertrude are the play's core ties."
+Little Red Riding Hood,Self,hunger,2,4,-2,2,"The girl carries cake and wine to her grandmother, and the wolf's hunger drives him to eat both of them."
+Little Red Riding Hood,Self,thirst,0,0,0,0,No one seeks or lacks water.
+Little Red Riding Hood,Self,feeling-cold-hot,0,0,0,0,No extreme temperature appears.
+Little Red Riding Hood,Self,sleepiness,1,0,1,1,"In the Grimm version the gorged wolf falls asleep, which lets the hunter act."
+Little Red Riding Hood,Self,curiosity,2,1,1,1,"The girl strays from the path into the woods to pick flowers, drawn by the new surroundings."
+Little Red Riding Hood,Self,explanation-seeking,2,2,0,0,"The girl questions the strange grandmother about her big ears, eyes, and teeth, trying to make sense of what she sees."
+Little Red Riding Hood,Self,skill-acquisition,0,2,-2,2,No one learns or trains.
+Little Red Riding Hood,Self,play,1,1,0,0,"The girl dawdles and picks flowers in the woods, a brief moment of play."
+Little Red Riding Hood,Self,resource-accumulation,0,1,-1,1,No wealth is gained.
+Little Red Riding Hood,Self,resource-foraging,1,2,-1,1,"The girl gathers flowers, a slight echo of foraging."
+Little Red Riding Hood,Self,mental-time-travel,1,1,0,0,The wolf plans to reach the grandmother's house first.
+Little Red Riding Hood,Threats,fear-of-predators,4,4,0,0,"The wolf, a predator in disguise, devours the grandmother and the girl; the tale is built on this threat."
+Little Red Riding Hood,Threats,fear-of-aggressors,1,4,-3,3,"The threat is a beast, not a human attacker; the hunter's killing of the wolf is the only human violence."
+Little Red Riding Hood,Threats,fear-of-heights,0,0,0,0,No heights appear.
+Little Red Riding Hood,Threats,disgust,1,1,0,0,Being swallowed whole and the hunter cutting open the belly are briefly gruesome.
+Little Red Riding Hood,Threats,pain-aversion,1,2,-1,1,The wolf dies with stones sewn into his belly; the girl's suffering is not described.
+Little Red Riding Hood,Cooperation,pride,0,1,-1,1,No achievement is recognized.
+Little Red Riding Hood,Cooperation,shame,0,2,-2,2,No one is shamed before others.
+Little Red Riding Hood,Cooperation,moral-pride,0,0,0,0,No one upholds values at a cost.
+Little Red Riding Hood,Cooperation,guilt,1,0,1,1,In the Grimm version the girl resolves never again to leave the path against her mother's word.
+Little Red Riding Hood,Cooperation,warmth,2,1,1,1,"The girl brings food to her sick grandmother, and the grandmother's house is a place of care."
+Little Red Riding Hood,Cooperation,moral-blame,1,4,-3,3,"The tale condemns the wolf's deceit, and Perrault's moral warns against smooth-tongued wolves."
+Little Red Riding Hood,Cooperation,moral-praise,1,3,-2,2,"The hunter is a rescuer, but is not celebrated."
+Little Red Riding Hood,Cooperation,revenge,1,1,0,0,"The hunter kills the wolf and the stones drag him down, a punishment rather than a vendetta."
+Little Red Riding Hood,Cooperation,forgiveness,0,0,0,0,No one forgives.
+Little Red Riding Hood,Cooperation,compassion,2,2,0,0,"The errand is an act of care for a sick old woman, and the hunter saves the helpless pair."
+Little Red Riding Hood,Cooperation,affiliation,1,0,1,1,"The girl chats with the wolf as a friendly stranger, which is her undoing."
+Little Red Riding Hood,Cooperation,friendship,0,0,0,0,No friendship forms.
+Little Red Riding Hood,Cooperation,sadness,0,1,-1,1,No grief is shown.
+Little Red Riding Hood,Cooperation,humor,1,0,1,1,The what-big-teeth-you-have exchange has a grim playfulness.
+Little Red Riding Hood,Cooperation,embarrassment,0,0,0,0,No one is embarrassed.
+Little Red Riding Hood,Cooperation,reasoning,0,1,-1,1,No argument occurs.
+Little Red Riding Hood,Cooperation,coalitional-affiliation,0,0,0,0,No groups form.
+Little Red Riding Hood,Competition,status-seeking,0,1,-1,1,No one seeks rank.
+Little Red Riding Hood,Competition,envy,0,0,0,0,No envy appears.
+Little Red Riding Hood,Competition,anger,0,2,-2,2,No anger appears.
+Little Red Riding Hood,Competition,hatred,0,2,-2,2,No hatred appears.
+Little Red Riding Hood,Mating,romantic-affiliation,0,0,0,0,No romance appears.
+Little Red Riding Hood,Mating,sexual-attraction,1,0,1,1,"Perrault's moral reads the wolf as a seducer of young girls, a hint rather than a story element."
+Little Red Riding Hood,Mating,long-term-love,0,0,0,0,No committed love appears.
+Little Red Riding Hood,Mating,desire,0,0,0,0,No sexual pursuit appears in the plot.
+Little Red Riding Hood,Mating,romantic-jealousy,0,0,0,0,No rivalry appears.
+Little Red Riding Hood,Mating,sexual-jealousy,0,0,0,0,No rivalry appears.
+Little Red Riding Hood,Mating,sexual-disgust,1,0,1,1,"In Perrault the wolf has the girl undress and climb into bed, a disturbing undertone."
+Little Red Riding Hood,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+Little Red Riding Hood,Kin,parental-care,2,4,-2,2,"The mother warns the girl to keep to the path, and the grandmother is herself the one in need of protection."
+Little Red Riding Hood,Kin,parental-investment,2,1,1,1,The mother instructs the girl on how to behave on the way.
+Little Red Riding Hood,Kin,familial-love,3,3,0,0,The whole errand is a granddaughter's care for her grandmother at her mother's bidding.
+In Search of Lost Time,Self,hunger,2,2,0,0,"The madeleine dipped in tea, Francoise's asparagus and boeuf mode, and the Combray kitchen make food a sensual motif."
+In Search of Lost Time,Self,thirst,0,0,0,0,No one seeks or lacks water.
+In Search of Lost Time,Self,feeling-cold-hot,0,1,-1,1,No extreme temperature threatens anyone.
+In Search of Lost Time,Self,sleepiness,2,3,-1,1,"The novel opens with the narrator's long nights going to bed early, and sleep, insomnia, and waking are recurring meditations."
+In Search of Lost Time,Self,curiosity,2,4,-2,2,"The narrator discovers Balbec, Venice, and the two ways around Combray, and dreams over place-names before seeing them."
+In Search of Lost Time,Self,explanation-seeking,3,3,0,0,Swann investigates Odette's past and the narrator interrogates Albertine's secret life; the madeleine's joy is itself a mystery he pursues.
+In Search of Lost Time,Self,skill-acquisition,2,2,0,0,The narrator struggles toward his vocation as a writer and learns at last how to make a book of his life.
+In Search of Lost Time,Self,play,1,1,0,0,Games with Gilberte on the Champs-Elysees and with the little band at Balbec are brief.
+In Search of Lost Time,Self,resource-accumulation,1,3,-2,2,"The Verdurins' and Guermantes' fortunes and inheritances matter socially, but no one pursues wealth."
+In Search of Lost Time,Self,resource-foraging,0,4,-4,4,No one searches for resources.
+In Search of Lost Time,Self,mental-time-travel,4,4,0,0,"Involuntary memory, the retrieval of the past through the madeleine and the uneven paving stones, and the meditation on time are the book's subject."
+In Search of Lost Time,Threats,fear-of-predators,0,0,0,0,No animals or monsters threaten anyone.
+In Search of Lost Time,Threats,fear-of-aggressors,1,0,1,1,"Zeppelins bomb Paris during the war, a distant threat."
+In Search of Lost Time,Threats,fear-of-heights,0,0,0,0,No heights appear.
+In Search of Lost Time,Threats,disgust,1,0,1,1,"The grandmother's stroke, Bergotte's death, and Charlus's degradation at Jupien's establishment touch on decay."
+In Search of Lost Time,Threats,pain-aversion,1,1,0,0,"The grandmother's agony and the narrator's asthma are rendered, but briefly against the whole."
+In Search of Lost Time,Cooperation,pride,2,4,-2,2,Social triumphs and the narrator's final sense of a work achieved give moments of recognized success.
+In Search of Lost Time,Cooperation,shame,2,2,0,0,"Bloch's gaffes, the Verdurins' snubs, Charlus's public humiliation, and the narrator's own mortifications recur."
+In Search of Lost Time,Cooperation,moral-pride,1,2,-1,1,Few characters hold to values at cost; Saint-Loup's courage in the war is one instance.
+In Search of Lost Time,Cooperation,guilt,2,3,-1,1,The narrator blames himself for his grandmother's death and for Albertine's captivity and flight.
+In Search of Lost Time,Cooperation,warmth,3,4,-1,1,The mother's goodnight kiss and the grandmother's tenderness at Combray and Balbec are the novel's purest affections.
+In Search of Lost Time,Cooperation,moral-blame,2,3,-1,1,"The Dreyfus Affair divides the salons into accusers and defenders, and Charlus and the Verdurins are judged."
+In Search of Lost Time,Cooperation,moral-praise,1,2,-1,1,"Saint-Loup is honored after his death, but praise for virtue is rare."
+In Search of Lost Time,Cooperation,revenge,1,1,0,0,Madame Verdurin engineers Charlus's humiliation at her concert to punish his condescension.
+In Search of Lost Time,Cooperation,forgiveness,1,2,-1,1,Reconciliations are few; the narrator mourns Albertine rather than forgiving her.
+In Search of Lost Time,Cooperation,compassion,2,2,0,0,The narrator's pity for his dying grandmother and for the fallen Charlus are moving passages.
+In Search of Lost Time,Cooperation,affiliation,3,4,-1,1,The narrator longs to enter the Guermantes world and to join the little band of girls at Balbec.
+In Search of Lost Time,Cooperation,friendship,2,2,0,0,"Saint-Loup and Bloch are the narrator's friends, though he doubts friendship's worth."
+In Search of Lost Time,Cooperation,sadness,3,3,0,0,"The grandmother's death, Albertine's death, and the losses that time inflicts fill the later volumes with mourning."
+In Search of Lost Time,Cooperation,humor,2,2,0,0,"Cottard's puns, Francoise's sayings, Legrandin's snobbery, and the Verdurin clan are social comedy."
+In Search of Lost Time,Cooperation,embarrassment,2,2,0,0,"Bloch, Legrandin, and the narrator himself suffer gaffes and awkward introductions in society."
+In Search of Lost Time,Cooperation,reasoning,2,4,-2,2,"Salon conversations argue over Dreyfus, art, and manners, and the narrator reasons at length about perception."
+In Search of Lost Time,Cooperation,coalitional-affiliation,3,4,-1,1,"The Verdurin little clan, the Faubourg Saint-Germain, and Dreyfusards against anti-Dreyfusards define camps."
+In Search of Lost Time,Competition,status-seeking,3,4,-1,1,"Madame Verdurin climbs to become a Guermantes, Legrandin and Bloch strive for position, and rank obsesses the salons."
+In Search of Lost Time,Competition,envy,2,4,-2,2,"The Verdurins envy the Guermantes, and social envy pervades the climbers."
+In Search of Lost Time,Competition,anger,1,1,0,0,Charlus's tantrums are the main eruptions of anger.
+In Search of Lost Time,Competition,hatred,1,0,1,1,"Madame Verdurin relishes Charlus's fall, and the war stirs hatred of Germans."
+In Search of Lost Time,Mating,romantic-affiliation,3,4,-1,1,"Swann and Odette, the narrator and Gilberte, the narrator and Albertine, Saint-Loup and Rachel: love affairs organize the volumes."
+In Search of Lost Time,Mating,sexual-attraction,3,3,0,0,"Odette's beauty, Albertine and the little band, and Charlus's desires drive the loves."
+In Search of Lost Time,Mating,long-term-love,2,4,-2,2,"Swann marries Odette and the narrator keeps Albertine as his prisoner, commitments that curdle."
+In Search of Lost Time,Mating,desire,2,3,-1,1,"The narrator pursues the girls of the little band, Saint-Loup and Charlus pursue men, and brothels appear."
+In Search of Lost Time,Mating,romantic-jealousy,3,4,-1,1,Swann's torment over Odette and the narrator's over Albertine make jealousy one of the novel's great subjects.
+In Search of Lost Time,Mating,sexual-jealousy,3,4,-1,1,"Swann suspects Odette of lovers and women, and the narrator spies on Albertine's suspected affairs with women."
+In Search of Lost Time,Mating,sexual-disgust,2,3,-1,1,Mademoiselle Vinteuil's profanation scene and Charlus chained in Jupien's brothel are disturbing sexual episodes.
+In Search of Lost Time,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+In Search of Lost Time,Kin,parental-care,2,1,1,1,The mother and grandmother watch over the sickly narrator in childhood and at Balbec.
+In Search of Lost Time,Kin,parental-investment,2,4,-2,2,The mother reads to him and shapes his education and taste.
+In Search of Lost Time,Kin,familial-love,3,3,0,0,The narrator's love for his mother and grandmother anchors Combray and his grief.
+The Metamorphosis,Self,hunger,3,4,-1,1,"Gregor rejects fresh milk, craves rotten scraps that Grete brings, then stops eating and starves; food marks each stage of his decline."
+The Metamorphosis,Self,thirst,1,2,-1,1,"The dish of milk Grete leaves is the only drink, and Gregor turns from it."
+The Metamorphosis,Self,feeling-cold-hot,0,2,-2,2,No extreme temperature appears.
+The Metamorphosis,Self,sleepiness,1,4,-3,3,"Gregor is worn by sleepless nights and his new body's torpor, a minor strand."
+The Metamorphosis,Self,curiosity,1,2,-1,1,Gregor explores his room's walls and ceiling as an insect.
+The Metamorphosis,Self,explanation-seeking,1,3,-2,2,No one asks why the transformation happened; the family only wonders what to do.
+The Metamorphosis,Self,skill-acquisition,1,3,-2,2,"Gregor learns to move his many legs and to crawl, a small adaptation."
+The Metamorphosis,Self,play,1,2,-1,1,Gregor takes pleasure in crawling over the ceiling and hanging there.
+The Metamorphosis,Self,resource-accumulation,2,4,-2,2,"The family's money worries, the father's hidden savings, and taking in lodgers shape their treatment of Gregor."
+The Metamorphosis,Self,resource-foraging,0,4,-4,4,No one searches for resources.
+The Metamorphosis,Self,mental-time-travel,2,3,-1,1,"Gregor frets over missed trains, his job, and the family's future, and recalls his years supporting them."
+The Metamorphosis,Threats,fear-of-predators,1,0,1,1,"The family and lodgers recoil from Gregor as a monstrous creature, though he threatens no one."
+The Metamorphosis,Threats,fear-of-aggressors,2,4,-2,2,"The father drives Gregor back with a cane and bombards him with apples, lodging one in his back."
+The Metamorphosis,Threats,fear-of-heights,0,3,-3,3,No heights appear.
+The Metamorphosis,Threats,disgust,4,4,0,0,"Gregor is vermin: the rotting apple festers in his back, his room fills with filth, and the family and lodgers are revolted by him."
+The Metamorphosis,Threats,pain-aversion,2,4,-2,2,The apple wound cripples Gregor and his injuries from the door and the cane are felt in detail.
+The Metamorphosis,Cooperation,pride,1,3,-2,2,Gregor recalls with satisfaction having provided the apartment for his family.
+The Metamorphosis,Cooperation,shame,3,4,-1,1,"Gregor hides under the sofa and a sheet so his sister need not see him, and the family hides him from the lodgers."
+The Metamorphosis,Cooperation,moral-pride,1,2,-1,1,"Gregor's devotion to duty is implied, but no one upholds values at cost."
+The Metamorphosis,Cooperation,guilt,2,4,-2,2,Gregor reproaches himself for burdening the family and for frightening his mother.
+The Metamorphosis,Cooperation,warmth,2,1,1,1,"Grete brings food and cleans his room at first, and the mother pleads for him."
+The Metamorphosis,Cooperation,moral-blame,1,4,-3,3,"The chief clerk reproaches Gregor's absence, and Grete finally judges that the creature must go."
+The Metamorphosis,Cooperation,moral-praise,0,1,-1,1,No one is celebrated for goodness.
+The Metamorphosis,Cooperation,revenge,0,1,-1,1,No one seeks vengeance.
+The Metamorphosis,Cooperation,forgiveness,0,1,-1,1,No one forgives.
+The Metamorphosis,Cooperation,compassion,2,1,1,1,Grete's early care for the helpless Gregor and the mother's defense of him fade as the story proceeds.
+The Metamorphosis,Cooperation,affiliation,0,4,-4,4,No one seeks companions.
+The Metamorphosis,Cooperation,friendship,0,0,0,0,No friendships appear.
+The Metamorphosis,Cooperation,sadness,3,4,-1,1,"Gregor's isolation, his longing to hear Grete's violin, and his quiet death are steeped in sorrow."
+The Metamorphosis,Cooperation,humor,2,3,-1,1,Gregor's worry about catching the train while lying as an insect is grimly absurd.
+The Metamorphosis,Cooperation,embarrassment,2,4,-2,2,"Gregor appears before the chief clerk and later before the lodgers, mortifying his family."
+The Metamorphosis,Cooperation,reasoning,0,3,-3,3,No argument or debate occurs.
+The Metamorphosis,Cooperation,coalitional-affiliation,0,4,-4,4,No groups form.
+The Metamorphosis,Competition,status-seeking,1,3,-2,2,"The father's bank uniform gives him new standing, a minor note."
+The Metamorphosis,Competition,envy,0,1,-1,1,No envy appears.
+The Metamorphosis,Competition,anger,2,4,-2,2,The father's rage at Gregor and Grete's final outburst are the story's eruptions.
+The Metamorphosis,Competition,hatred,1,1,0,0,Grete's rejection and the charwoman's taunting of the old dung beetle shade into contempt.
+The Metamorphosis,Mating,romantic-affiliation,1,0,1,1,"Gregor clings to the framed picture of the lady in furs, a trace of longing."
+The Metamorphosis,Mating,sexual-attraction,1,0,1,1,The picture of the woman in fur is the only hint.
+The Metamorphosis,Mating,long-term-love,0,2,-2,2,No committed love appears.
+The Metamorphosis,Mating,desire,0,0,0,0,No sexual pursuit appears.
+The Metamorphosis,Mating,romantic-jealousy,0,0,0,0,No rivalry appears.
+The Metamorphosis,Mating,sexual-jealousy,0,0,0,0,No rivalry appears.
+The Metamorphosis,Mating,sexual-disgust,0,0,0,0,No sexual relationship appears.
+The Metamorphosis,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+The Metamorphosis,Kin,parental-care,1,4,-3,3,"The mother tries to protect Gregor from the father, while the parents otherwise leave him to Grete."
+The Metamorphosis,Kin,parental-investment,1,4,-3,3,Gregor had planned to pay for Grete's conservatory studies.
+The Metamorphosis,Kin,familial-love,3,4,-1,1,"Gregor's devotion to parents and sister, and their withdrawal of love until they are relieved by his death, is the story's heart."
+Murder on the Orient Express,Self,hunger,1,1,0,0,"Meals in the dining car frame the interviews, but no one seeks or lacks food."
+Murder on the Orient Express,Self,thirst,0,1,-1,1,No one seeks or lacks water.
+Murder on the Orient Express,Self,feeling-cold-hot,1,3,-2,2,The train is trapped in a snowdrift in Yugoslavia; the cold is a setting rather than a threat to the passengers.
+Murder on the Orient Express,Self,sleepiness,1,2,-1,1,"The murder happens at night, and Poirot's broken sleep and the passengers' accounts of the night matter as evidence."
+Murder on the Orient Express,Self,curiosity,0,2,-2,2,No one explores unfamiliar places; the train is sealed.
+Murder on the Orient Express,Self,explanation-seeking,4,4,0,0,"Poirot interviews every passenger, sifts clues like the burnt note and the scarlet kimono, and reconstructs who killed Ratchett and how."
+Murder on the Orient Express,Self,skill-acquisition,0,0,0,0,No one trains or improves.
+Murder on the Orient Express,Self,play,0,0,0,0,No play appears.
+Murder on the Orient Express,Self,resource-accumulation,1,0,1,1,Cassetti grew rich from the Armstrong ransom; wealth is background to the crime.
+Murder on the Orient Express,Self,resource-foraging,0,0,0,0,No one searches for resources.
+Murder on the Orient Express,Self,mental-time-travel,2,3,-1,1,"Poirot reconstructs the night's timeline and the Armstrong kidnapping years earlier, and the conspirators planned the killing in detail."
+Murder on the Orient Express,Threats,fear-of-predators,0,0,0,0,No animal or monster threatens anyone.
+Murder on the Orient Express,Threats,fear-of-aggressors,2,4,-2,2,"Ratchett receives threatening letters and asks Poirot for protection, and a killer remains among the passengers."
+Murder on the Orient Express,Threats,fear-of-heights,0,0,0,0,No heights appear.
+Murder on the Orient Express,Threats,disgust,1,1,0,0,"Ratchett's stabbed corpse is examined by the doctor, briefly."
+Murder on the Orient Express,Threats,pain-aversion,1,2,-1,1,"The twelve stab wounds are catalogued, but suffering is not dwelt on."
+Murder on the Orient Express,Cooperation,pride,2,3,-1,1,Poirot's vanity about his little grey cells and his triumphant solution are recognized by Bouc and the doctor.
+Murder on the Orient Express,Cooperation,shame,0,2,-2,2,No one is shamed.
+Murder on the Orient Express,Cooperation,moral-pride,2,3,-1,1,"Poirot lets the simpler solution stand rather than hand the avengers to the law, choosing justice over duty."
+Murder on the Orient Express,Cooperation,guilt,1,3,-2,2,"The conspirators feel no guilt, and Poirot's qualms are brief."
+Murder on the Orient Express,Cooperation,warmth,1,1,0,0,"Mrs. Hubbard and the Armstrong household's loyalty show affection, in passing."
+Murder on the Orient Express,Cooperation,moral-blame,3,4,-1,1,"Cassetti is condemned as a monster who kidnapped and killed Daisy Armstrong, and the passengers act as his jury."
+Murder on the Orient Express,Cooperation,moral-praise,1,4,-3,3,No one is celebrated for goodness.
+Murder on the Orient Express,Cooperation,revenge,3,4,-1,1,Twelve people tied to the Armstrongs stab Cassetti once each to avenge Daisy; the solution reveals the murder as vengeance.
+Murder on the Orient Express,Cooperation,forgiveness,1,3,-2,2,Poirot's decision to let the killers go is mercy rather than reconciliation.
+Murder on the Orient Express,Cooperation,compassion,2,2,0,0,Poirot's sympathy for the Armstrong family's suffering decides the ending.
+Murder on the Orient Express,Cooperation,affiliation,0,2,-2,2,No one seeks companions.
+Murder on the Orient Express,Cooperation,friendship,1,1,0,0,Poirot and Monsieur Bouc confer as friends.
+Murder on the Orient Express,Cooperation,sadness,2,2,0,0,"The Armstrong tragedy, the mother's death in childbirth and the father's suicide, underlies the motive."
+Murder on the Orient Express,Cooperation,humor,1,1,0,0,Poirot's mannerisms and Mrs. Hubbard's chatter lighten the interviews.
+Murder on the Orient Express,Cooperation,embarrassment,0,1,-1,1,No one is embarrassed.
+Murder on the Orient Express,Cooperation,reasoning,3,4,-1,1,Poirot's interrogations and his two proposed solutions are exercises in argument and deduction.
+Murder on the Orient Express,Cooperation,coalitional-affiliation,2,2,0,0,"The twelve passengers form a secret jury and act as one, hiding their ties to each other."
+Murder on the Orient Express,Competition,status-seeking,0,0,0,0,No one seeks rank.
+Murder on the Orient Express,Competition,envy,0,0,0,0,No envy appears.
+Murder on the Orient Express,Competition,anger,1,2,-1,1,"The conspirators' righteous anger at Cassetti drives the killing, but is kept hidden."
+Murder on the Orient Express,Competition,hatred,2,0,2,2,The avengers loathe Cassetti and take grim satisfaction in his death.
+Murder on the Orient Express,Mating,romantic-affiliation,0,0,0,0,No romance appears.
+Murder on the Orient Express,Mating,sexual-attraction,0,0,0,0,No attraction appears.
+Murder on the Orient Express,Mating,long-term-love,1,1,0,0,Count and Countess Andrenyi protect each other as devoted spouses.
+Murder on the Orient Express,Mating,desire,0,0,0,0,No sexual pursuit appears.
+Murder on the Orient Express,Mating,romantic-jealousy,0,0,0,0,No rivalry appears.
+Murder on the Orient Express,Mating,sexual-jealousy,0,0,0,0,No rivalry appears.
+Murder on the Orient Express,Mating,sexual-disgust,0,0,0,0,No sexual relationship appears.
+Murder on the Orient Express,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+Murder on the Orient Express,Kin,parental-care,2,2,0,0,The kidnapping and murder of the child Daisy Armstrong is the wrong the whole plot answers.
+Murder on the Orient Express,Kin,parental-investment,0,2,-2,2,No child is raised.
+Murder on the Orient Express,Kin,familial-love,2,3,-1,1,"Daisy's grandmother, aunt, and household servants act out of loyalty to the Armstrong family."
+2001: A Space Odyssey,Self,hunger,2,1,1,1,"The starving apes scavenge until the bone tool lets them eat meat, and the astronauts eat paste from trays."
+2001: A Space Odyssey,Self,thirst,2,1,1,1,The rival ape tribes fight over the waterhole in the opening section.
+2001: A Space Odyssey,Self,feeling-cold-hot,1,3,-2,2,"Bowman is exposed to the vacuum of space without a helmet, a brief ordeal."
+2001: A Space Odyssey,Self,sleepiness,1,3,-2,2,"Three crew members lie in hibernation until HAL cuts their life support, and Floyd sleeps on the shuttle."
+2001: A Space Odyssey,Self,curiosity,4,4,0,0,"The apes touch the monolith, Floyd's team visits the Tycho excavation, Discovery flies to Jupiter, and Bowman enters the Star Gate; the unknown pulls every section forward."
+2001: A Space Odyssey,Self,explanation-seeking,3,4,-1,1,"What the monolith is and why it signals Jupiter is the mission's question, and the crew must work out whether HAL has failed."
+2001: A Space Odyssey,Self,skill-acquisition,2,4,-2,2,"The ape learns to wield a bone as a weapon, humanity's first tool."
+2001: A Space Odyssey,Self,play,0,1,-1,1,No play appears.
+2001: A Space Odyssey,Self,resource-accumulation,0,2,-2,2,No wealth is gained.
+2001: A Space Odyssey,Self,resource-foraging,1,1,0,0,The apes forage for food and water in the desert.
+2001: A Space Odyssey,Self,mental-time-travel,1,4,-3,3,"Bowman and Poole plan how to handle HAL, and the mission's secret purpose is planned on Earth."
+2001: A Space Odyssey,Threats,fear-of-predators,2,4,-2,2,"A leopard kills an ape in the opening, and the apes huddle at night listening to it."
+2001: A Space Odyssey,Threats,fear-of-aggressors,3,4,-1,1,"The rival apes attack at the waterhole, and HAL kills Poole and the sleeping crew and locks Bowman out of the ship."
+2001: A Space Odyssey,Threats,fear-of-heights,1,2,-1,1,"Poole's body tumbles into space and the pod scenes play on weightless drops, faintly."
+2001: A Space Odyssey,Threats,disgust,0,2,-2,2,No rot or contamination appears.
+2001: A Space Odyssey,Threats,pain-aversion,1,3,-2,2,"Poole's air line is cut and Bowman risks decompression, but suffering is barely shown."
+2001: A Space Odyssey,Cooperation,pride,1,3,-2,2,"The ape brandishes the bone in triumph, and the Tycho scientists are congratulated."
+2001: A Space Odyssey,Cooperation,shame,0,1,-1,1,No one is shamed.
+2001: A Space Odyssey,Cooperation,moral-pride,0,2,-2,2,No one upholds values at cost.
+2001: A Space Odyssey,Cooperation,guilt,0,1,-1,1,"No one feels guilt, though HAL pleads as he is shut down."
+2001: A Space Odyssey,Cooperation,warmth,1,1,0,0,Floyd's video call with his small daughter is a brief tender moment.
+2001: A Space Odyssey,Cooperation,moral-blame,1,3,-2,2,HAL's murders are not condemned so much as survived.
+2001: A Space Odyssey,Cooperation,moral-praise,0,3,-3,3,No one is celebrated for goodness.
+2001: A Space Odyssey,Cooperation,revenge,0,0,0,0,"Bowman disconnects HAL to survive, not to punish."
+2001: A Space Odyssey,Cooperation,forgiveness,0,0,0,0,No one forgives.
+2001: A Space Odyssey,Cooperation,compassion,1,1,0,0,"Bowman tries to retrieve Poole's body, and HAL's pleading stirs a flicker of pity."
+2001: A Space Odyssey,Cooperation,affiliation,0,3,-3,3,No one seeks companions.
+2001: A Space Odyssey,Cooperation,friendship,1,1,0,0,Bowman and Poole are quiet crewmates who confide in the pod.
+2001: A Space Odyssey,Cooperation,sadness,1,2,-1,1,HAL's fading voice singing Daisy is the film's one moment of loss.
+2001: A Space Odyssey,Cooperation,humor,1,2,-1,1,The zero-gravity toilet instructions are a dry joke.
+2001: A Space Odyssey,Cooperation,embarrassment,0,1,-1,1,No one is embarrassed.
+2001: A Space Odyssey,Cooperation,reasoning,1,4,-3,3,Bowman and Poole argue over HAL's reliability inside the pod.
+2001: A Space Odyssey,Cooperation,coalitional-affiliation,2,4,-2,2,The ape tribes confront each other as groups at the waterhole.
+2001: A Space Odyssey,Competition,status-seeking,1,2,-1,1,The armed ape tribe claims dominance of the waterhole.
+2001: A Space Odyssey,Competition,envy,0,1,-1,1,No envy appears.
+2001: A Space Odyssey,Competition,anger,1,3,-2,2,The ape's frenzy with the bone is the film's one burst of rage.
+2001: A Space Odyssey,Competition,hatred,0,1,-1,1,No hatred appears.
+2001: A Space Odyssey,Mating,romantic-affiliation,0,0,0,0,No romance appears.
+2001: A Space Odyssey,Mating,sexual-attraction,0,0,0,0,No attraction appears.
+2001: A Space Odyssey,Mating,long-term-love,0,0,0,0,No committed love appears.
+2001: A Space Odyssey,Mating,desire,0,0,0,0,No sexual pursuit appears.
+2001: A Space Odyssey,Mating,romantic-jealousy,0,0,0,0,No rivalry appears.
+2001: A Space Odyssey,Mating,sexual-jealousy,0,0,0,0,No rivalry appears.
+2001: A Space Odyssey,Mating,sexual-disgust,0,0,0,0,No sexual relationship appears.
+2001: A Space Odyssey,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+2001: A Space Odyssey,Kin,parental-care,1,0,1,1,"Floyd calls his daughter about her birthday, and the Star Child closes the film as a newborn."
+2001: A Space Odyssey,Kin,parental-investment,0,0,0,0,No child is raised.
+2001: A Space Odyssey,Kin,familial-love,1,1,0,0,"Poole watches a birthday message from his parents, a brief family tie."
+The Shining,Self,hunger,1,1,0,0,"Halloran shows off the stocked pantry, and Wendy cooks; food is a setting detail."
+The Shining,Self,thirst,1,2,-1,1,"Jack craves a drink and is served by the ghostly bartender Lloyd, but this is alcohol, not water."
+The Shining,Self,feeling-cold-hot,3,3,0,0,"The hotel is snowbound for the winter, and Jack freezes to death in the hedge maze."
+The Shining,Self,sleepiness,2,3,-1,1,"Jack's nightmare of killing his family, his insomnia, and Danny's trances recur."
+The Shining,Self,curiosity,3,2,1,1,"Danny rides his tricycle through the empty corridors and is drawn to Room 237, and Wendy explores the hotel's vast spaces."
+The Shining,Self,explanation-seeking,2,2,0,0,"Halloran explains the shining, and Wendy and Danny try to understand the hotel's visions and Jack's change."
+The Shining,Self,skill-acquisition,0,1,-1,1,No one trains or improves.
+The Shining,Self,play,2,1,1,1,"Danny plays with his toys and in the maze, Jack throws a ball against the wall, and his typed page reads all work and no play."
+The Shining,Self,resource-accumulation,0,0,0,0,No wealth is gained.
+The Shining,Self,resource-foraging,0,2,-2,2,No one searches for resources.
+The Shining,Self,mental-time-travel,1,2,-1,1,"Grady tells Jack he has always been the caretaker, and the final photograph folds past into present."
+The Shining,Threats,fear-of-predators,2,0,2,2,"The hotel's ghosts, the Grady twins and the woman in Room 237, menace Danny like monsters."
+The Shining,Threats,fear-of-aggressors,4,4,0,0,"Jack stalks Wendy with the axe, breaks through the bathroom door, kills Halloran, and chases Danny through the maze."
+The Shining,Threats,fear-of-heights,0,0,0,0,No heights appear.
+The Shining,Threats,disgust,2,3,-1,1,"The woman in Room 237 rots in Jack's arms, and blood floods from the elevators."
+The Shining,Threats,pain-aversion,2,4,-2,2,"Halloran is axed, Jack's leg is cut by the bat and he limps, and Danny's old broken arm is recalled."
+The Shining,Cooperation,pride,1,4,-3,3,Jack's writing ambitions and his boast of the caretaker's job are hollow.
+The Shining,Cooperation,shame,2,4,-2,2,Jack confesses to Lloyd his shame over dislocating Danny's shoulder while drunk.
+The Shining,Cooperation,moral-pride,0,2,-2,2,No one upholds values at cost.
+The Shining,Cooperation,guilt,2,3,-1,1,Jack's guilt over hurting Danny gnaws at him until the hotel absolves him.
+The Shining,Cooperation,warmth,2,1,1,1,Halloran's kindness to Danny over ice cream and Wendy's care for her son are the film's warmth.
+The Shining,Cooperation,moral-blame,2,4,-2,2,"Wendy accuses Jack of hurting Danny, and the hotel's Grady urges Jack to correct his family."
+The Shining,Cooperation,moral-praise,0,1,-1,1,No one is celebrated for goodness.
+The Shining,Cooperation,revenge,0,2,-2,2,No one seeks vengeance.
+The Shining,Cooperation,forgiveness,0,0,0,0,No one forgives.
+The Shining,Cooperation,compassion,2,2,0,0,Halloran crosses the country through the storm to help the endangered boy.
+The Shining,Cooperation,affiliation,1,0,1,1,"Danny finds an ally in Halloran, who shares his gift."
+The Shining,Cooperation,friendship,1,1,0,0,Danny's imaginary companion Tony and his bond with Halloran are slight.
+The Shining,Cooperation,sadness,1,3,-2,2,Wendy's despair as her husband collapses is brief sorrow amid terror.
+The Shining,Cooperation,humor,1,0,1,1,Jack's manic Here's Johnny and his mock-cheerful menace are dark comedy.
+The Shining,Cooperation,embarrassment,0,0,0,0,No one is embarrassed.
+The Shining,Cooperation,reasoning,0,0,0,0,No argument or debate occurs.
+The Shining,Cooperation,coalitional-affiliation,0,0,0,0,No groups form.
+The Shining,Competition,status-seeking,1,1,0,0,"The ghosts flatter Jack as the hotel's rightful caretaker, a lure to his vanity."
+The Shining,Competition,envy,0,0,0,0,No envy appears.
+The Shining,Competition,anger,3,4,-1,1,Jack's rage at Wendy for interrupting his work explodes into murderous fury.
+The Shining,Competition,hatred,2,4,-2,2,Jack's contempt for Wendy and his relish in terrorizing her are hateful.
+The Shining,Mating,romantic-affiliation,0,0,0,0,No romance appears.
+The Shining,Mating,sexual-attraction,1,0,1,1,The naked woman in Room 237 seduces Jack before she rots.
+The Shining,Mating,long-term-love,1,2,-1,1,Jack and Wendy's marriage is already hollow and ends in horror.
+The Shining,Mating,desire,1,1,0,0,Jack embraces the stranger in Room 237.
+The Shining,Mating,romantic-jealousy,0,0,0,0,No rivalry appears.
+The Shining,Mating,sexual-jealousy,0,0,0,0,No rivalry appears.
+The Shining,Mating,sexual-disgust,1,0,1,1,"The seductress becomes a decaying corpse, and Wendy glimpses a man in a bear costume with a guest."
+The Shining,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+The Shining,Kin,parental-care,3,4,-1,1,Wendy fights with a bat and a knife to keep Danny from his father and gets him out through the bathroom window.
+The Shining,Kin,parental-investment,1,1,0,0,No one nurtures or teaches a child beyond daily care.
+The Shining,Kin,familial-love,3,2,1,1,A family of three is the whole cast; Wendy and Danny's bond holds while Jack's love turns to murder.
+Titanic,Self,hunger,1,0,1,1,"First-class dinners and the steerage party are social scenes, not matters of appetite."
+Titanic,Self,thirst,0,0,0,0,No one seeks or lacks water.
+Titanic,Self,feeling-cold-hot,3,4,-1,1,The sinking plunges everyone into freezing water; Jack dies of the cold while Rose waits on the door.
+Titanic,Self,sleepiness,0,1,-1,1,No fatigue matters.
+Titanic,Self,curiosity,1,1,0,0,"Rose discovers the steerage world and the ship's bow with Jack, a light touch of exploration."
+Titanic,Self,explanation-seeking,2,1,1,1,Brock Lovett's salvage team searches for the Heart of the Ocean and listens to old Rose to learn what happened.
+Titanic,Self,skill-acquisition,1,2,-1,1,"Jack teaches Rose to spit and shows her his drawings, small lessons."
+Titanic,Self,play,1,3,-2,2,Dancing and drinking at the steerage party is a burst of play.
+Titanic,Self,resource-accumulation,2,3,-1,1,"The Heart of the Ocean diamond, Cal's fortune, and the salvage hunt put wealth in view."
+Titanic,Self,resource-foraging,2,0,2,2,"Lovett's expedition searches the wreck for the diamond, and the ending reveals where it is."
+Titanic,Self,mental-time-travel,2,2,0,0,"Old Rose recalls the voyage, framing the story as memory."
+Titanic,Threats,fear-of-predators,0,0,0,0,No animal or monster threatens anyone.
+Titanic,Threats,fear-of-aggressors,2,2,0,0,Cal has Jack framed and later hunts the couple with a pistol through the flooding ship.
+Titanic,Threats,fear-of-heights,2,3,-1,1,"Rose climbs over the stern rail, and as the ship upends passengers fall from the vertical deck."
+Titanic,Threats,disgust,0,0,0,0,No rot or contamination appears.
+Titanic,Threats,pain-aversion,2,4,-2,2,"Passengers die of hypothermia and injury in the sinking, including Jack."
+Titanic,Cooperation,pride,1,2,-1,1,"Jack shouts that he is king of the world, and the builders boast of the unsinkable ship."
+Titanic,Cooperation,shame,1,3,-2,2,Rose's mother dreads social disgrace if Rose does not marry Cal.
+Titanic,Cooperation,moral-pride,2,4,-2,2,"Rose chooses freedom over wealth, Jack gives his life for her, and the band plays on as the ship sinks."
+Titanic,Cooperation,guilt,1,1,0,0,"Ismay slinks into a lifeboat in shame, and Rose carries survivor's guilt in old age."
+Titanic,Cooperation,warmth,2,4,-2,2,Jack's generosity and Molly Brown's kindness contrast with first-class coldness.
+Titanic,Cooperation,moral-blame,2,3,-1,1,"Cal's cruelty and the locked gates on steerage are condemned, and Ismay is blamed for the speed."
+Titanic,Cooperation,moral-praise,1,4,-3,3,Old Rose honors Jack as the man who saved her in every way.
+Titanic,Cooperation,revenge,1,1,0,0,Cal plants the diamond on Jack to punish him.
+Titanic,Cooperation,forgiveness,0,1,-1,1,No one forgives.
+Titanic,Cooperation,compassion,2,4,-2,2,"Jack talks Rose off the rail, Rose frees Jack from the flooding cell, and strangers help each other in the sinking."
+Titanic,Cooperation,affiliation,2,2,0,0,Rose seeks out Jack's company and his steerage friends against her class.
+Titanic,Cooperation,friendship,1,1,0,0,Jack's friends Fabrizio and Tommy are a light touch.
+Titanic,Cooperation,sadness,3,4,-1,1,Jack's death in the water and old Rose's memories of him are the film's grief.
+Titanic,Cooperation,humor,1,2,-1,1,Jack's spitting lesson and Molly Brown's quips lighten the romance.
+Titanic,Cooperation,embarrassment,1,3,-2,2,Jack in a borrowed tuxedo among the first class is lightly awkward.
+Titanic,Cooperation,reasoning,1,0,1,1,Jack holds his own in the dinner-table sparring with Cal.
+Titanic,Cooperation,coalitional-affiliation,2,3,-1,1,"First class and steerage are separate worlds, and the gates between them matter in the sinking."
+Titanic,Competition,status-seeking,2,3,-1,1,Cal's arrogance and Rose's mother's drive to secure position through marriage shape the conflict.
+Titanic,Competition,envy,1,4,-3,3,"Cal cannot bear that Rose prefers a penniless artist, a note of envy."
+Titanic,Competition,anger,2,2,0,0,Cal's rage when Rose defies him and his pursuit with the gun.
+Titanic,Competition,hatred,1,2,-1,1,Cal loathes Jack and relishes his arrest.
+Titanic,Mating,romantic-affiliation,4,4,0,0,"The love story of Jack and Rose, from the bow of the ship to the final promise, is the whole film."
+Titanic,Mating,sexual-attraction,3,4,-1,1,The drawing scene and the lovemaking in the car play on desire.
+Titanic,Mating,long-term-love,3,1,2,2,Rose keeps her promise to Jack and loves him for the rest of her life.
+Titanic,Mating,desire,1,0,1,1,No uncommitted pursuit appears.
+Titanic,Mating,romantic-jealousy,3,4,-1,1,Cal's fury at losing Rose to Jack drives his villainy.
+Titanic,Mating,sexual-jealousy,2,4,-2,2,Cal finds the nude drawing left for him and reacts as a sexual rival.
+Titanic,Mating,sexual-disgust,1,2,-1,1,Cal's possessive abuse of Rose is treated as coercive.
+Titanic,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+Titanic,Kin,parental-care,1,1,0,0,"Mothers comfort children as the ship sinks, and Rose's mother controls her daughter's future."
+Titanic,Kin,parental-investment,1,0,1,1,No child is raised.
+Titanic,Kin,familial-love,1,1,0,0,Rose's strained bond with her mother and old Rose with her granddaughter are minor.
+Harry Potter and the Philosopher's Stone,Self,hunger,2,2,0,0,"The Dursleys starve Harry, the train trolley sweets and the Hogwarts feasts delight him, and Hagrid brings cake."
+Harry Potter and the Philosopher's Stone,Self,thirst,0,0,0,0,No one seeks or lacks water.
+Harry Potter and the Philosopher's Stone,Self,feeling-cold-hot,0,1,-1,1,No extreme temperature threatens anyone.
+Harry Potter and the Philosopher's Stone,Self,sleepiness,1,1,0,0,"Night-time wanderings under the cloak cost sleep, a minor note."
+Harry Potter and the Philosopher's Stone,Self,curiosity,3,4,-1,1,"Diagon Alley, Platform Nine and Three-Quarters, Hogwarts's moving staircases, and the Forbidden Forest are a hidden world Harry discovers chapter by chapter."
+Harry Potter and the Philosopher's Stone,Self,explanation-seeking,3,4,-1,1,"Harry, Ron, and Hermione puzzle out Fluffy, Nicolas Flamel, and who is after the Stone, suspecting Snape."
+Harry Potter and the Philosopher's Stone,Self,skill-acquisition,3,4,-1,1,"Harry learns spells and potions, takes to flying at once, and trains as Gryffindor's Seeker."
+Harry Potter and the Philosopher's Stone,Self,play,3,3,0,0,"Quidditch matches, wizard chess, and Exploding Snap fill the school year."
+Harry Potter and the Philosopher's Stone,Self,resource-accumulation,2,2,0,0,"Harry finds his parents' gold at Gringotts, and the Stone makes gold and the Elixir of Life."
+Harry Potter and the Philosopher's Stone,Self,resource-foraging,1,2,-1,1,No one searches for scarce resources.
+Harry Potter and the Philosopher's Stone,Self,mental-time-travel,1,2,-1,1,The trio plan how to get past Fluffy and the obstacles.
+Harry Potter and the Philosopher's Stone,Threats,fear-of-predators,2,3,-1,1,"The mountain troll, the three-headed dog Fluffy, and the hooded figure drinking unicorn blood in the forest threaten the children."
+Harry Potter and the Philosopher's Stone,Threats,fear-of-aggressors,3,4,-1,1,"Voldemort, through Quirrell, tries to kill Harry, and Malfoy and the Dursleys bully him."
+Harry Potter and the Philosopher's Stone,Threats,fear-of-heights,2,1,1,1,"Neville falls from his broom, and Quidditch and the jinxed broomstick play on heights."
+Harry Potter and the Philosopher's Stone,Threats,disgust,1,0,1,1,Troll bogeys on the wand and Hagrid's rock cakes are minor grossness.
+Harry Potter and the Philosopher's Stone,Threats,pain-aversion,1,2,-1,1,"Harry's scar burns near Quirrell, and he is bruised by Quidditch and the troll."
+Harry Potter and the Philosopher's Stone,Cooperation,pride,3,3,0,0,"Harry is the famous Boy Who Lived, becomes the youngest Seeker in a century, and wins the house cup."
+Harry Potter and the Philosopher's Stone,Cooperation,shame,2,2,0,0,"Harry, Hermione, and Neville lose one hundred and fifty points and are shunned by Gryffindor."
+Harry Potter and the Philosopher's Stone,Cooperation,moral-pride,2,4,-2,2,"Neville stands up to his friends, and Harry risks expulsion to keep the Stone from Voldemort."
+Harry Potter and the Philosopher's Stone,Cooperation,guilt,1,2,-1,1,Harry feels responsible for losing Gryffindor's points.
+Harry Potter and the Philosopher's Stone,Cooperation,warmth,3,4,-1,1,"Hagrid's affection, Mrs. Weasley's jumper, and Dumbledore's gentleness surround Harry."
+Harry Potter and the Philosopher's Stone,Cooperation,moral-blame,2,3,-1,1,"Malfoy's spite, Snape's unfairness, and the Dursleys' cruelty are judged throughout."
+Harry Potter and the Philosopher's Stone,Cooperation,moral-praise,2,4,-2,2,"Dumbledore awards points for Ron's courage, Hermione's logic, Harry's nerve, and Neville's bravery before the whole school."
+Harry Potter and the Philosopher's Stone,Cooperation,revenge,1,1,0,0,"Harry wants to get back at Malfoy, a schoolboy grudge."
+Harry Potter and the Philosopher's Stone,Cooperation,forgiveness,1,1,0,0,Hermione forgives Ron's cruelty after the troll.
+Harry Potter and the Philosopher's Stone,Cooperation,compassion,2,3,-1,1,Hermione's rescue by the boys and Hagrid's care for Norbert the dragon are small kindnesses.
+Harry Potter and the Philosopher's Stone,Cooperation,affiliation,3,4,-1,1,Harry meets Ron on the train and seeks friends in a world where he had none.
+Harry Potter and the Philosopher's Stone,Cooperation,friendship,4,4,0,0,"The bond of Harry, Ron, and Hermione, sealed by the troll fight, carries the story to the final obstacles."
+Harry Potter and the Philosopher's Stone,Cooperation,sadness,2,3,-1,1,Harry sees his dead parents in the Mirror of Erised and longs for them.
+Harry Potter and the Philosopher's Stone,Cooperation,humor,3,2,1,1,"Fred and George's jokes, Ron's remarks, and the absurd Dursleys keep the tone light."
+Harry Potter and the Philosopher's Stone,Cooperation,embarrassment,2,2,0,0,Neville's mishaps and Harry's first clumsy days among wizards are lightly embarrassing.
+Harry Potter and the Philosopher's Stone,Cooperation,reasoning,2,3,-1,1,Hermione solves Snape's potion riddle and Ron wins the chess game by logic.
+Harry Potter and the Philosopher's Stone,Cooperation,coalitional-affiliation,3,4,-1,1,"Sorting into houses, Gryffindor against Slytherin, and the house cup make group identity central."
+Harry Potter and the Philosopher's Stone,Competition,status-seeking,2,2,0,0,"House points, Malfoy's boasting, and Quidditch glory are contests for standing."
+Harry Potter and the Philosopher's Stone,Competition,envy,1,2,-1,1,Dudley's and Malfoy's envy of Harry are minor.
+Harry Potter and the Philosopher's Stone,Competition,anger,1,3,-2,2,Harry's flashes of anger at Snape and Malfoy are brief.
+Harry Potter and the Philosopher's Stone,Competition,hatred,2,3,-1,1,"Malfoy and Snape appear to loathe Harry, and Voldemort wants him dead."
+Harry Potter and the Philosopher's Stone,Mating,romantic-affiliation,0,1,-1,1,No romance appears.
+Harry Potter and the Philosopher's Stone,Mating,sexual-attraction,0,0,0,0,No attraction appears.
+Harry Potter and the Philosopher's Stone,Mating,long-term-love,0,2,-2,2,No committed love appears.
+Harry Potter and the Philosopher's Stone,Mating,desire,0,0,0,0,No sexual pursuit appears.
+Harry Potter and the Philosopher's Stone,Mating,romantic-jealousy,0,1,-1,1,No rivalry appears.
+Harry Potter and the Philosopher's Stone,Mating,sexual-jealousy,0,0,0,0,No rivalry appears.
+Harry Potter and the Philosopher's Stone,Mating,sexual-disgust,0,0,0,0,No sexual relationship appears.
+Harry Potter and the Philosopher's Stone,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+Harry Potter and the Philosopher's Stone,Kin,parental-care,3,4,-1,1,"Lily's sacrifice protects Harry from Voldemort, Hagrid and Dumbledore watch over him, and Mrs. Weasley takes him in."
+Harry Potter and the Philosopher's Stone,Kin,parental-investment,1,4,-3,3,Hagrid and Dumbledore guide and teach Harry as surrogate parents.
+Harry Potter and the Philosopher's Stone,Kin,familial-love,3,3,0,0,"Harry's longing for his dead parents, the warm Weasley family, and the Dursleys' cruelty frame the story."
+One Piece,Self,hunger,3,4,-1,1,"Luffy's bottomless appetite, Sanji's cooking and his rule that no one goes hungry, and feasts after every victory keep food constantly in view."
+One Piece,Self,thirst,1,1,0,0,The crew crosses the Alabasta desert short of water.
+One Piece,Self,feeling-cold-hot,2,3,-1,1,"Drum Island's snow, the Alabasta desert, and Punk Hazard's fire and ice halves are ordeals of temperature."
+One Piece,Self,sleepiness,1,2,-1,1,"Luffy and Zoro nap constantly, a running gag."
+One Piece,Self,curiosity,4,4,0,0,"Each arc lands the crew on a new island, from Skypiea to Wano, and Luffy's drive to see what lies ahead is the voyage's engine."
+One Piece,Self,explanation-seeking,3,4,-1,1,"The Void Century, the Poneglyphs, the Will of D, and what the One Piece is are long-running mysteries."
+One Piece,Self,skill-acquisition,3,4,-1,1,"Luffy develops his Gears, the crew trains for two years, and Zoro pursues mastery of the sword."
+One Piece,Self,play,2,3,-1,1,Luffy's games and antics aboard the ship and the crew's horseplay are frequent.
+One Piece,Self,resource-accumulation,3,3,0,0,"The One Piece treasure is the goal, Nami hoards gold, and bounties rise."
+One Piece,Self,resource-foraging,3,4,-1,1,"The crew follows the Log Pose and hunts Poneglyphs, the Road to Laugh Tale, and treasure island by island."
+One Piece,Self,mental-time-travel,2,3,-1,1,"Each crew member's dream drives them forward, and long backstories reveal the past behind every island."
+One Piece,Threats,fear-of-predators,2,3,-1,1,"Sea Kings, giant beasts, and monstrous creatures attack the ship on the Grand Line."
+One Piece,Threats,fear-of-aggressors,3,4,-1,1,"The crew fights Arlong, Crocodile, Enies Lobby's Marines, Kaido, and countless pirate crews in extended battles."
+One Piece,Threats,fear-of-heights,2,3,-1,1,The Knock Up Stream to Skypiea and battles high above the ground play on falls.
+One Piece,Threats,disgust,1,3,-2,2,Occasional gross-out gags and grotesque villains are minor.
+One Piece,Threats,pain-aversion,3,3,0,0,"Zoro takes Luffy's pain at Thriller Bark, Luffy's Gears damage his body, and battles leave the crew broken and bleeding."
+One Piece,Cooperation,pride,3,4,-1,1,"Rising bounties, victories over Warlords and Emperors, and Luffy's declarations of becoming Pirate King are recognized achievements."
+One Piece,Cooperation,shame,1,2,-1,1,Usopp's shame after leaving the crew is one of the few instances.
+One Piece,Cooperation,moral-pride,3,4,-1,1,"Zoro says nothing happened after absorbing Luffy's pain, and the crew repeatedly refuses to abandon friends at any cost."
+One Piece,Cooperation,guilt,2,3,-1,1,"Usopp regrets abandoning the crew, and Luffy blames himself for failing to save Ace."
+One Piece,Cooperation,warmth,3,4,-1,1,"Shanks's gift of the straw hat, Sanji feeding the starving, and the crew's kindness to strangers set the tone."
+One Piece,Cooperation,moral-blame,3,4,-1,1,"The crew condemns the World Government's cruelty, and Luffy punches a Celestial Dragon for shooting a friend."
+One Piece,Cooperation,moral-praise,2,4,-2,2,Liberated kingdoms such as Alabasta and Dressrosa celebrate the Straw Hats as heroes.
+One Piece,Cooperation,revenge,2,2,0,0,"Nami's grudge against Arlong, Law's vendetta against Doflamingo, and Luffy's fury at Kuma drive several arcs."
+One Piece,Cooperation,forgiveness,2,1,1,1,"The crew takes Usopp back after his apology, and old enemies become allies."
+One Piece,Cooperation,compassion,3,4,-1,1,"Luffy frees oppressed islands, Chopper heals the wounded, and the crew protects the weak everywhere."
+One Piece,Cooperation,affiliation,3,4,-1,1,"Luffy recruits Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, Brook, and Jinbe, each after a shared ordeal."
+One Piece,Cooperation,friendship,4,4,0,0,"Nakama, the bond of the crew, is the series' creed; Enies Lobby's declaration of war to save Robin is its emblem."
+One Piece,Cooperation,sadness,3,2,1,1,"The backstories of Nami, Robin, Chopper, and Brook, the Going Merry's funeral, and Ace's death are deep grief."
+One Piece,Cooperation,humor,3,3,0,0,"Luffy's idiocy, Usopp's lies, Sanji's nosebleeds, and constant gags make the series a comedy as much as an adventure."
+One Piece,Cooperation,embarrassment,1,2,-1,1,Comic embarrassments are frequent but slight.
+One Piece,Cooperation,reasoning,1,1,0,0,Debate is rare; conflicts are settled by fists.
+One Piece,Cooperation,coalitional-affiliation,3,4,-1,1,"Pirate crews, the Marines, the Worst Generation alliance, and the Straw Hat Grand Fleet make group loyalty central."
+One Piece,Competition,status-seeking,3,4,-1,1,"Bounties, the titles of Warlord, Emperor, and Pirate King, and Luffy's declaration that he will be king are the series' ladder."
+One Piece,Competition,envy,1,2,-1,1,"Rivals resent Luffy's rise, a minor note."
+One Piece,Competition,anger,3,4,-1,1,"Luffy's rage when friends are hurt, from Arlong Park to Marineford, powers the climactic fights."
+One Piece,Competition,hatred,2,1,1,1,"Villains like Doflamingo delight in others' suffering, and the crew's foes gloat."
+One Piece,Mating,romantic-affiliation,1,0,1,1,Boa Hancock's love for Luffy and Sanji's crushes are comic asides.
+One Piece,Mating,sexual-attraction,2,1,1,1,Sanji's nosebleeds and the fan-service drawings of Nami and Robin recur.
+One Piece,Mating,long-term-love,1,0,1,1,Oden and Toki's marriage is a rare committed romance.
+One Piece,Mating,desire,1,0,1,1,Sanji's lechery is a running gag.
+One Piece,Mating,romantic-jealousy,1,0,1,1,"Hancock bristles at women near Luffy, played for laughs."
+One Piece,Mating,sexual-jealousy,0,0,0,0,No sexual rivalry appears.
+One Piece,Mating,sexual-disgust,1,0,1,1,Absalom's harassment of Nami and similar villainy is briefly disturbing.
+One Piece,Kin,kin-sexual-disgust,0,0,0,0,No incest appears.
+One Piece,Kin,parental-care,2,2,0,0,"Bellemere dies protecting Nami, Kureha and Hiriluk raise Chopper, and Whitebeard shields his adopted sons."
+One Piece,Kin,parental-investment,2,2,0,0,"Garp raises Luffy and Ace, and Whitebeard's crew is a family of sons he nurtures."
+One Piece,Kin,familial-love,3,2,1,1,"The sworn brotherhood of Luffy, Ace, and Sabo, Nami and Bellemere, and Whitebeard's family are among the series' deepest bonds."

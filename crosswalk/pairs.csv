@@ -1,0 +1,617 @@
+work,ingredient,feel,rater_ingredient,authors_ingredient,feel_character,diff,mapping
+The Iliad,hunger,hungry,2,1,2,0,carving
+The Iliad,thirst,thirsty,1,1,0,-1,one-to-one
+The Iliad,feeling-cold-hot,too-hot-too-cold,1,2,1,0,one-to-one
+The Iliad,sleepiness,sleepy,2,2,2,0,carving
+The Iliad,curiosity,curious,1,2,2,1,carving
+The Iliad,explanation-seeking,curious,1,2,2,1,carving
+The Iliad,skill-acquisition,focused-in-flow,2,1,3,1,one-to-one
+The Iliad,play,fun-excitement,2,1,2,0,carving
+The Iliad,fear-of-predators,afraid,1,0,4,3,carving
+The Iliad,fear-of-aggressors,afraid,4,4,4,0,carving
+The Iliad,fear-of-heights,afraid,1,1,4,3,carving
+The Iliad,disgust,disgusted,2,3,2,0,carving
+The Iliad,pain-aversion,pain,4,4,4,0,carving
+The Iliad,pride,proud,4,4,4,0,carving
+The Iliad,shame,shame,4,4,4,0,one-to-one
+The Iliad,moral-pride,proud,3,2,4,1,carving
+The Iliad,guilt,guilt,3,2,3,0,one-to-one
+The Iliad,warmth,liking-as-a-friend,3,3,4,1,carving
+The Iliad,moral-blame,judgy-moral-sense,3,4,3,0,carving
+The Iliad,moral-praise,admiration,3,4,3,0,carving
+The Iliad,revenge,angry,4,4,4,0,carving
+The Iliad,compassion,compassion,4,3,3,-1,carving
+The Iliad,affiliation,liking-as-a-friend,2,4,4,2,carving
+The Iliad,friendship,liking-as-a-friend,4,4,4,0,carving
+The Iliad,sadness,sad,4,4,3,-1,carving
+The Iliad,humor,amused,2,1,2,0,one-to-one
+The Iliad,embarrassment,embarrassed,2,3,1,-1,one-to-one
+The Iliad,reasoning,understanding,3,3,2,-1,carving
+The Iliad,coalitional-affiliation,sense-of-belonging,4,4,3,-1,one-to-one
+The Iliad,status-seeking,proud,4,4,4,0,carving
+The Iliad,envy,envious,2,3,2,0,one-to-one
+The Iliad,anger,angry,4,4,4,0,carving
+The Iliad,hatred,hatred,4,3,4,0,carving
+The Iliad,romantic-affiliation,love-romantic,3,2,3,0,carving
+The Iliad,sexual-attraction,aroused-sexually,3,2,2,-1,carving
+The Iliad,long-term-love,love-romantic,3,4,3,0,carving
+The Iliad,desire,aroused-sexually,2,1,2,0,carving
+The Iliad,romantic-jealousy,jealous-romantic-sexual,3,1,3,0,carving
+The Iliad,sexual-jealousy,jealous-romantic-sexual,3,1,3,0,carving
+The Iliad,sexual-disgust,disgusted,1,0,2,1,carving
+The Iliad,kin-sexual-disgust,disgusted,0,0,2,2,carving
+The Iliad,parental-care,love-family,3,4,4,1,carving
+The Iliad,parental-investment,love-family,3,1,4,1,carving
+The Iliad,familial-love,love-family,4,3,4,0,carving
+The Tale of Genji,hunger,hungry,1,0,1,0,carving
+The Tale of Genji,thirst,thirsty,0,0,0,0,one-to-one
+The Tale of Genji,feeling-cold-hot,too-hot-too-cold,1,1,1,0,one-to-one
+The Tale of Genji,sleepiness,sleepy,1,1,1,0,carving
+The Tale of Genji,curiosity,curious,2,2,3,1,carving
+The Tale of Genji,explanation-seeking,curious,2,1,3,1,carving
+The Tale of Genji,skill-acquisition,focused-in-flow,2,3,2,0,one-to-one
+The Tale of Genji,play,fun-excitement,2,2,2,0,carving
+The Tale of Genji,fear-of-predators,afraid,0,1,3,3,carving
+The Tale of Genji,fear-of-aggressors,afraid,1,1,3,2,carving
+The Tale of Genji,fear-of-heights,afraid,0,0,3,3,carving
+The Tale of Genji,disgust,disgusted,1,2,2,1,carving
+The Tale of Genji,pain-aversion,pain,1,0,1,0,carving
+The Tale of Genji,pride,proud,4,4,3,-1,carving
+The Tale of Genji,shame,shame,3,4,4,1,one-to-one
+The Tale of Genji,moral-pride,proud,2,2,3,1,carving
+The Tale of Genji,guilt,guilt,3,3,4,1,one-to-one
+The Tale of Genji,warmth,liking-as-a-friend,3,3,3,0,carving
+The Tale of Genji,moral-blame,judgy-moral-sense,2,2,3,1,carving
+The Tale of Genji,moral-praise,admiration,2,4,4,2,carving
+The Tale of Genji,revenge,angry,2,3,2,0,carving
+The Tale of Genji,compassion,compassion,3,1,3,0,carving
+The Tale of Genji,affiliation,liking-as-a-friend,3,1,3,0,carving
+The Tale of Genji,friendship,liking-as-a-friend,3,3,3,0,carving
+The Tale of Genji,sadness,sad,4,4,4,0,carving
+The Tale of Genji,humor,amused,2,1,2,0,one-to-one
+The Tale of Genji,embarrassment,embarrassed,3,2,2,-1,one-to-one
+The Tale of Genji,reasoning,understanding,2,3,2,0,carving
+The Tale of Genji,coalitional-affiliation,sense-of-belonging,2,1,3,1,one-to-one
+The Tale of Genji,status-seeking,proud,4,4,3,-1,carving
+The Tale of Genji,envy,envious,3,3,3,0,one-to-one
+The Tale of Genji,anger,angry,2,2,2,0,carving
+The Tale of Genji,hatred,hatred,2,3,2,0,carving
+The Tale of Genji,romantic-affiliation,love-romantic,4,4,4,0,carving
+The Tale of Genji,sexual-attraction,aroused-sexually,4,4,3,-1,carving
+The Tale of Genji,long-term-love,love-romantic,4,1,4,0,carving
+The Tale of Genji,desire,aroused-sexually,4,3,3,-1,carving
+The Tale of Genji,romantic-jealousy,jealous-romantic-sexual,4,3,4,0,carving
+The Tale of Genji,sexual-jealousy,jealous-romantic-sexual,3,3,4,1,carving
+The Tale of Genji,sexual-disgust,disgusted,3,3,2,-1,carving
+The Tale of Genji,kin-sexual-disgust,disgusted,3,0,2,-1,carving
+The Tale of Genji,parental-care,love-family,3,3,3,0,carving
+The Tale of Genji,parental-investment,love-family,3,4,3,0,carving
+The Tale of Genji,familial-love,love-family,3,4,3,0,carving
+The Song of Roland,hunger,hungry,0,1,0,0,carving
+The Song of Roland,thirst,thirsty,0,0,0,0,one-to-one
+The Song of Roland,feeling-cold-hot,too-hot-too-cold,1,1,0,-1,one-to-one
+The Song of Roland,sleepiness,sleepy,1,2,1,0,carving
+The Song of Roland,curiosity,curious,1,0,0,-1,carving
+The Song of Roland,explanation-seeking,curious,1,4,0,-1,carving
+The Song of Roland,skill-acquisition,focused-in-flow,1,2,2,1,one-to-one
+The Song of Roland,play,fun-excitement,1,1,1,0,carving
+The Song of Roland,fear-of-predators,afraid,1,0,3,2,carving
+The Song of Roland,fear-of-aggressors,afraid,4,4,3,-1,carving
+The Song of Roland,fear-of-heights,afraid,1,1,3,2,carving
+The Song of Roland,disgust,disgusted,1,3,1,0,carving
+The Song of Roland,pain-aversion,pain,4,4,3,-1,carving
+The Song of Roland,pride,proud,4,4,4,0,carving
+The Song of Roland,shame,shame,4,4,4,0,one-to-one
+The Song of Roland,moral-pride,proud,4,4,4,0,carving
+The Song of Roland,guilt,guilt,2,2,2,0,one-to-one
+The Song of Roland,warmth,liking-as-a-friend,2,3,4,2,carving
+The Song of Roland,moral-blame,judgy-moral-sense,4,4,4,0,carving
+The Song of Roland,moral-praise,admiration,3,4,3,0,carving
+The Song of Roland,revenge,angry,4,4,3,-1,carving
+The Song of Roland,compassion,compassion,2,3,2,0,carving
+The Song of Roland,affiliation,liking-as-a-friend,2,3,4,2,carving
+The Song of Roland,friendship,liking-as-a-friend,4,4,4,0,carving
+The Song of Roland,sadness,sad,4,4,3,-1,carving
+The Song of Roland,humor,amused,0,1,1,1,one-to-one
+The Song of Roland,embarrassment,embarrassed,1,3,1,0,one-to-one
+The Song of Roland,reasoning,understanding,3,3,2,-1,carving
+The Song of Roland,coalitional-affiliation,sense-of-belonging,4,4,4,0,one-to-one
+The Song of Roland,status-seeking,proud,3,4,4,1,carving
+The Song of Roland,envy,envious,2,4,2,0,one-to-one
+The Song of Roland,anger,angry,4,4,3,-1,carving
+The Song of Roland,hatred,hatred,3,3,4,1,carving
+The Song of Roland,romantic-affiliation,love-romantic,1,1,2,1,carving
+The Song of Roland,sexual-attraction,aroused-sexually,1,1,0,-1,carving
+The Song of Roland,long-term-love,love-romantic,2,4,2,0,carving
+The Song of Roland,desire,aroused-sexually,0,1,0,0,carving
+The Song of Roland,romantic-jealousy,jealous-romantic-sexual,0,1,0,0,carving
+The Song of Roland,sexual-jealousy,jealous-romantic-sexual,0,1,0,0,carving
+The Song of Roland,sexual-disgust,disgusted,0,0,1,1,carving
+The Song of Roland,kin-sexual-disgust,disgusted,0,0,1,1,carving
+The Song of Roland,parental-care,love-family,1,3,3,2,carving
+The Song of Roland,parental-investment,love-family,1,2,3,2,carving
+The Song of Roland,familial-love,love-family,3,4,3,0,carving
+Journey to the West,hunger,hungry,4,3,4,0,carving
+Journey to the West,thirst,thirsty,2,2,1,-1,one-to-one
+Journey to the West,feeling-cold-hot,too-hot-too-cold,2,3,3,1,one-to-one
+Journey to the West,sleepiness,sleepy,1,2,2,1,carving
+Journey to the West,curiosity,curious,4,3,3,-1,carving
+Journey to the West,explanation-seeking,curious,3,2,3,0,carving
+Journey to the West,skill-acquisition,focused-in-flow,4,4,2,-2,one-to-one
+Journey to the West,play,fun-excitement,3,4,4,1,carving
+Journey to the West,fear-of-predators,afraid,4,4,4,0,carving
+Journey to the West,fear-of-aggressors,afraid,4,4,4,0,carving
+Journey to the West,fear-of-heights,afraid,2,3,4,2,carving
+Journey to the West,disgust,disgusted,2,3,3,1,carving
+Journey to the West,pain-aversion,pain,3,3,4,1,carving
+Journey to the West,pride,proud,4,4,4,0,carving
+Journey to the West,shame,shame,2,3,3,1,one-to-one
+Journey to the West,moral-pride,proud,3,4,4,1,carving
+Journey to the West,guilt,guilt,2,2,2,0,one-to-one
+Journey to the West,warmth,liking-as-a-friend,3,3,4,1,carving
+Journey to the West,moral-blame,judgy-moral-sense,3,4,3,0,carving
+Journey to the West,moral-praise,admiration,3,4,3,0,carving
+Journey to the West,revenge,angry,2,3,4,2,carving
+Journey to the West,compassion,compassion,4,4,4,0,carving
+Journey to the West,affiliation,liking-as-a-friend,3,4,4,1,carving
+Journey to the West,friendship,liking-as-a-friend,4,4,4,0,carving
+Journey to the West,sadness,sad,2,2,2,0,carving
+Journey to the West,humor,amused,4,4,4,0,one-to-one
+Journey to the West,embarrassment,embarrassed,3,3,3,0,one-to-one
+Journey to the West,reasoning,understanding,2,4,3,1,carving
+Journey to the West,coalitional-affiliation,sense-of-belonging,4,4,3,-1,one-to-one
+Journey to the West,status-seeking,proud,4,4,4,0,carving
+Journey to the West,envy,envious,2,3,3,1,one-to-one
+Journey to the West,anger,angry,3,4,4,1,carving
+Journey to the West,hatred,hatred,2,3,3,1,carving
+Journey to the West,romantic-affiliation,love-romantic,2,1,2,0,carving
+Journey to the West,sexual-attraction,aroused-sexually,3,1,3,0,carving
+Journey to the West,long-term-love,love-romantic,1,2,2,1,carving
+Journey to the West,desire,aroused-sexually,3,4,3,0,carving
+Journey to the West,romantic-jealousy,jealous-romantic-sexual,1,1,1,0,carving
+Journey to the West,sexual-jealousy,jealous-romantic-sexual,1,1,1,0,carving
+Journey to the West,sexual-disgust,disgusted,3,2,3,0,carving
+Journey to the West,kin-sexual-disgust,disgusted,0,0,3,3,carving
+Journey to the West,parental-care,love-family,2,2,2,0,carving
+Journey to the West,parental-investment,love-family,2,2,2,0,carving
+Journey to the West,familial-love,love-family,2,2,2,0,carving
+Hamlet,hunger,hungry,1,1,0,-1,carving
+Hamlet,thirst,thirsty,1,0,0,-1,one-to-one
+Hamlet,feeling-cold-hot,too-hot-too-cold,1,1,1,0,one-to-one
+Hamlet,sleepiness,sleepy,2,2,2,0,carving
+Hamlet,curiosity,curious,1,2,3,2,carving
+Hamlet,explanation-seeking,curious,4,4,3,-1,carving
+Hamlet,skill-acquisition,focused-in-flow,1,2,1,0,one-to-one
+Hamlet,play,fun-excitement,2,2,2,0,carving
+Hamlet,fear-of-predators,afraid,0,0,3,3,carving
+Hamlet,fear-of-aggressors,afraid,3,4,3,0,carving
+Hamlet,fear-of-heights,afraid,1,0,3,2,carving
+Hamlet,disgust,disgusted,3,0,4,1,carving
+Hamlet,pain-aversion,pain,2,4,2,0,carving
+Hamlet,pride,proud,2,4,3,1,carving
+Hamlet,shame,shame,3,4,4,1,one-to-one
+Hamlet,moral-pride,proud,2,4,3,1,carving
+Hamlet,guilt,guilt,4,4,4,0,one-to-one
+Hamlet,warmth,liking-as-a-friend,2,2,4,2,carving
+Hamlet,moral-blame,judgy-moral-sense,4,4,4,0,carving
+Hamlet,moral-praise,admiration,2,3,3,1,carving
+Hamlet,revenge,angry,4,4,4,0,carving
+Hamlet,compassion,compassion,2,2,2,0,carving
+Hamlet,affiliation,liking-as-a-friend,2,4,4,2,carving
+Hamlet,friendship,liking-as-a-friend,3,4,4,1,carving
+Hamlet,sadness,sad,4,4,3,-1,carving
+Hamlet,humor,amused,3,2,3,0,one-to-one
+Hamlet,embarrassment,embarrassed,2,2,2,0,one-to-one
+Hamlet,reasoning,understanding,4,4,3,-1,carving
+Hamlet,coalitional-affiliation,sense-of-belonging,2,4,2,0,one-to-one
+Hamlet,status-seeking,proud,3,4,3,0,carving
+Hamlet,envy,envious,2,3,2,0,one-to-one
+Hamlet,anger,angry,4,4,4,0,carving
+Hamlet,hatred,hatred,3,2,4,1,carving
+Hamlet,romantic-affiliation,love-romantic,3,3,3,0,carving
+Hamlet,sexual-attraction,aroused-sexually,3,3,2,-1,carving
+Hamlet,long-term-love,love-romantic,2,4,3,1,carving
+Hamlet,desire,aroused-sexually,2,3,2,0,carving
+Hamlet,romantic-jealousy,jealous-romantic-sexual,2,2,2,0,carving
+Hamlet,sexual-jealousy,jealous-romantic-sexual,2,3,2,0,carving
+Hamlet,sexual-disgust,disgusted,4,4,4,0,carving
+Hamlet,kin-sexual-disgust,disgusted,3,4,4,1,carving
+Hamlet,parental-care,love-family,2,4,4,2,carving
+Hamlet,parental-investment,love-family,2,3,4,2,carving
+Hamlet,familial-love,love-family,4,4,4,0,carving
+Little Red Riding Hood,hunger,hungry,3,4,4,1,carving
+Little Red Riding Hood,thirst,thirsty,1,0,1,0,one-to-one
+Little Red Riding Hood,feeling-cold-hot,too-hot-too-cold,0,0,0,0,one-to-one
+Little Red Riding Hood,sleepiness,sleepy,1,0,2,1,carving
+Little Red Riding Hood,curiosity,curious,2,1,3,1,carving
+Little Red Riding Hood,explanation-seeking,curious,2,2,3,1,carving
+Little Red Riding Hood,skill-acquisition,focused-in-flow,1,2,0,-1,one-to-one
+Little Red Riding Hood,play,fun-excitement,2,1,2,0,carving
+Little Red Riding Hood,fear-of-predators,afraid,4,4,4,0,carving
+Little Red Riding Hood,fear-of-aggressors,afraid,2,4,4,2,carving
+Little Red Riding Hood,fear-of-heights,afraid,0,0,4,4,carving
+Little Red Riding Hood,disgust,disgusted,2,1,1,-1,carving
+Little Red Riding Hood,pain-aversion,pain,2,2,2,0,carving
+Little Red Riding Hood,pride,proud,1,1,0,-1,carving
+Little Red Riding Hood,shame,shame,1,2,1,0,one-to-one
+Little Red Riding Hood,moral-pride,proud,1,0,0,-1,carving
+Little Red Riding Hood,guilt,guilt,1,0,2,1,one-to-one
+Little Red Riding Hood,warmth,liking-as-a-friend,2,1,1,-1,carving
+Little Red Riding Hood,moral-blame,judgy-moral-sense,2,4,3,1,carving
+Little Red Riding Hood,moral-praise,admiration,1,3,0,-1,carving
+Little Red Riding Hood,revenge,angry,1,1,1,0,carving
+Little Red Riding Hood,compassion,compassion,3,2,3,0,carving
+Little Red Riding Hood,affiliation,liking-as-a-friend,1,0,1,0,carving
+Little Red Riding Hood,friendship,liking-as-a-friend,0,0,1,1,carving
+Little Red Riding Hood,sadness,sad,1,1,0,-1,carving
+Little Red Riding Hood,humor,amused,1,0,1,0,one-to-one
+Little Red Riding Hood,embarrassment,embarrassed,0,0,0,0,one-to-one
+Little Red Riding Hood,reasoning,understanding,1,1,2,1,carving
+Little Red Riding Hood,coalitional-affiliation,sense-of-belonging,0,0,0,0,one-to-one
+Little Red Riding Hood,status-seeking,proud,0,1,0,0,carving
+Little Red Riding Hood,envy,envious,0,0,0,0,one-to-one
+Little Red Riding Hood,anger,angry,1,2,1,0,carving
+Little Red Riding Hood,hatred,hatred,1,2,1,0,carving
+Little Red Riding Hood,romantic-affiliation,love-romantic,1,0,1,0,carving
+Little Red Riding Hood,sexual-attraction,aroused-sexually,2,0,1,-1,carving
+Little Red Riding Hood,long-term-love,love-romantic,0,0,1,1,carving
+Little Red Riding Hood,desire,aroused-sexually,1,0,1,0,carving
+Little Red Riding Hood,romantic-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+Little Red Riding Hood,sexual-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+Little Red Riding Hood,sexual-disgust,disgusted,2,0,1,-1,carving
+Little Red Riding Hood,kin-sexual-disgust,disgusted,0,0,1,1,carving
+Little Red Riding Hood,parental-care,love-family,3,4,4,1,carving
+Little Red Riding Hood,parental-investment,love-family,2,1,4,2,carving
+Little Red Riding Hood,familial-love,love-family,3,3,4,1,carving
+In Search of Lost Time,hunger,hungry,2,2,1,-1,carving
+In Search of Lost Time,thirst,thirsty,1,0,0,-1,one-to-one
+In Search of Lost Time,feeling-cold-hot,too-hot-too-cold,1,1,1,0,one-to-one
+In Search of Lost Time,sleepiness,sleepy,3,3,3,0,carving
+In Search of Lost Time,curiosity,curious,3,4,4,1,carving
+In Search of Lost Time,explanation-seeking,curious,4,3,4,0,carving
+In Search of Lost Time,skill-acquisition,focused-in-flow,3,2,3,0,one-to-one
+In Search of Lost Time,play,fun-excitement,2,1,2,0,carving
+In Search of Lost Time,fear-of-predators,afraid,0,0,2,2,carving
+In Search of Lost Time,fear-of-aggressors,afraid,1,0,2,1,carving
+In Search of Lost Time,fear-of-heights,afraid,0,0,2,2,carving
+In Search of Lost Time,disgust,disgusted,2,0,3,1,carving
+In Search of Lost Time,pain-aversion,pain,2,1,2,0,carving
+In Search of Lost Time,pride,proud,3,4,4,1,carving
+In Search of Lost Time,shame,shame,3,2,3,0,one-to-one
+In Search of Lost Time,moral-pride,proud,2,2,4,2,carving
+In Search of Lost Time,guilt,guilt,3,3,3,0,one-to-one
+In Search of Lost Time,warmth,liking-as-a-friend,3,4,3,0,carving
+In Search of Lost Time,moral-blame,judgy-moral-sense,3,3,3,0,carving
+In Search of Lost Time,moral-praise,admiration,2,2,4,2,carving
+In Search of Lost Time,revenge,angry,2,1,2,0,carving
+In Search of Lost Time,compassion,compassion,3,2,2,-1,carving
+In Search of Lost Time,affiliation,liking-as-a-friend,4,4,3,-1,carving
+In Search of Lost Time,friendship,liking-as-a-friend,3,2,3,0,carving
+In Search of Lost Time,sadness,sad,4,3,4,0,carving
+In Search of Lost Time,humor,amused,3,2,3,0,one-to-one
+In Search of Lost Time,embarrassment,embarrassed,3,2,3,0,one-to-one
+In Search of Lost Time,reasoning,understanding,3,4,4,1,carving
+In Search of Lost Time,coalitional-affiliation,sense-of-belonging,3,4,4,1,one-to-one
+In Search of Lost Time,status-seeking,proud,4,4,4,0,carving
+In Search of Lost Time,envy,envious,3,4,3,0,one-to-one
+In Search of Lost Time,anger,angry,2,1,2,0,carving
+In Search of Lost Time,hatred,hatred,2,0,3,1,carving
+In Search of Lost Time,romantic-affiliation,love-romantic,4,4,4,0,carving
+In Search of Lost Time,sexual-attraction,aroused-sexually,3,3,3,0,carving
+In Search of Lost Time,long-term-love,love-romantic,3,4,4,1,carving
+In Search of Lost Time,desire,aroused-sexually,3,3,3,0,carving
+In Search of Lost Time,romantic-jealousy,jealous-romantic-sexual,4,4,4,0,carving
+In Search of Lost Time,sexual-jealousy,jealous-romantic-sexual,4,4,4,0,carving
+In Search of Lost Time,sexual-disgust,disgusted,3,3,3,0,carving
+In Search of Lost Time,kin-sexual-disgust,disgusted,1,0,3,2,carving
+In Search of Lost Time,parental-care,love-family,3,1,4,1,carving
+In Search of Lost Time,parental-investment,love-family,2,4,4,2,carving
+In Search of Lost Time,familial-love,love-family,4,3,4,0,carving
+The Metamorphosis,hunger,hungry,3,4,4,1,carving
+The Metamorphosis,thirst,thirsty,1,2,0,-1,one-to-one
+The Metamorphosis,feeling-cold-hot,too-hot-too-cold,1,2,0,-1,one-to-one
+The Metamorphosis,sleepiness,sleepy,2,4,2,0,carving
+The Metamorphosis,curiosity,curious,1,2,2,1,carving
+The Metamorphosis,explanation-seeking,curious,2,3,2,0,carving
+The Metamorphosis,skill-acquisition,focused-in-flow,1,3,0,-1,one-to-one
+The Metamorphosis,play,fun-excitement,1,2,1,0,carving
+The Metamorphosis,fear-of-predators,afraid,1,0,4,3,carving
+The Metamorphosis,fear-of-aggressors,afraid,2,4,4,2,carving
+The Metamorphosis,fear-of-heights,afraid,1,3,4,3,carving
+The Metamorphosis,disgust,disgusted,4,4,4,0,carving
+The Metamorphosis,pain-aversion,pain,3,4,3,0,carving
+The Metamorphosis,pride,proud,1,3,2,1,carving
+The Metamorphosis,shame,shame,3,4,3,0,one-to-one
+The Metamorphosis,moral-pride,proud,1,2,2,1,carving
+The Metamorphosis,guilt,guilt,2,4,2,0,one-to-one
+The Metamorphosis,warmth,liking-as-a-friend,2,1,0,-2,carving
+The Metamorphosis,moral-blame,judgy-moral-sense,2,4,3,1,carving
+The Metamorphosis,moral-praise,admiration,0,1,1,1,carving
+The Metamorphosis,revenge,angry,1,1,3,2,carving
+The Metamorphosis,compassion,compassion,3,1,3,0,carving
+The Metamorphosis,affiliation,liking-as-a-friend,0,4,0,0,carving
+The Metamorphosis,friendship,liking-as-a-friend,0,0,0,0,carving
+The Metamorphosis,sadness,sad,3,4,3,0,carving
+The Metamorphosis,humor,amused,2,3,1,-1,one-to-one
+The Metamorphosis,embarrassment,embarrassed,3,4,3,0,one-to-one
+The Metamorphosis,reasoning,understanding,1,3,3,2,carving
+The Metamorphosis,coalitional-affiliation,sense-of-belonging,1,4,3,2,one-to-one
+The Metamorphosis,status-seeking,proud,2,3,2,0,carving
+The Metamorphosis,envy,envious,1,1,1,0,one-to-one
+The Metamorphosis,anger,angry,2,4,3,1,carving
+The Metamorphosis,hatred,hatred,1,1,3,2,carving
+The Metamorphosis,romantic-affiliation,love-romantic,1,0,1,0,carving
+The Metamorphosis,sexual-attraction,aroused-sexually,1,0,1,0,carving
+The Metamorphosis,long-term-love,love-romantic,0,2,1,1,carving
+The Metamorphosis,desire,aroused-sexually,0,0,1,1,carving
+The Metamorphosis,romantic-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+The Metamorphosis,sexual-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+The Metamorphosis,sexual-disgust,disgusted,0,0,4,4,carving
+The Metamorphosis,kin-sexual-disgust,disgusted,0,0,4,4,carving
+The Metamorphosis,parental-care,love-family,2,4,4,2,carving
+The Metamorphosis,parental-investment,love-family,2,4,4,2,carving
+The Metamorphosis,familial-love,love-family,4,4,4,0,carving
+Murder on the Orient Express,hunger,hungry,1,1,0,-1,carving
+Murder on the Orient Express,thirst,thirsty,0,1,0,0,one-to-one
+Murder on the Orient Express,feeling-cold-hot,too-hot-too-cold,2,3,2,0,one-to-one
+Murder on the Orient Express,sleepiness,sleepy,2,2,3,1,carving
+Murder on the Orient Express,curiosity,curious,1,2,4,3,carving
+Murder on the Orient Express,explanation-seeking,curious,4,4,4,0,carving
+Murder on the Orient Express,skill-acquisition,focused-in-flow,1,0,3,2,one-to-one
+Murder on the Orient Express,play,fun-excitement,1,0,0,-1,carving
+Murder on the Orient Express,fear-of-predators,afraid,0,0,3,3,carving
+Murder on the Orient Express,fear-of-aggressors,afraid,2,4,3,1,carving
+Murder on the Orient Express,fear-of-heights,afraid,0,0,3,3,carving
+Murder on the Orient Express,disgust,disgusted,1,1,3,2,carving
+Murder on the Orient Express,pain-aversion,pain,2,2,1,-1,carving
+Murder on the Orient Express,pride,proud,2,3,3,1,carving
+Murder on the Orient Express,shame,shame,1,2,2,1,one-to-one
+Murder on the Orient Express,moral-pride,proud,3,3,3,0,carving
+Murder on the Orient Express,guilt,guilt,2,3,2,0,one-to-one
+Murder on the Orient Express,warmth,liking-as-a-friend,2,1,3,1,carving
+Murder on the Orient Express,moral-blame,judgy-moral-sense,4,4,4,0,carving
+Murder on the Orient Express,moral-praise,admiration,2,4,2,0,carving
+Murder on the Orient Express,revenge,angry,4,4,3,-1,carving
+Murder on the Orient Express,compassion,compassion,3,2,3,0,carving
+Murder on the Orient Express,affiliation,liking-as-a-friend,1,2,3,2,carving
+Murder on the Orient Express,friendship,liking-as-a-friend,2,1,3,1,carving
+Murder on the Orient Express,sadness,sad,3,2,3,0,carving
+Murder on the Orient Express,humor,amused,2,1,2,0,one-to-one
+Murder on the Orient Express,embarrassment,embarrassed,1,1,3,2,one-to-one
+Murder on the Orient Express,reasoning,understanding,4,4,4,0,carving
+Murder on the Orient Express,coalitional-affiliation,sense-of-belonging,3,2,3,0,one-to-one
+Murder on the Orient Express,status-seeking,proud,1,0,3,2,carving
+Murder on the Orient Express,envy,envious,0,0,0,0,one-to-one
+Murder on the Orient Express,anger,angry,2,2,3,1,carving
+Murder on the Orient Express,hatred,hatred,3,0,4,1,carving
+Murder on the Orient Express,romantic-affiliation,love-romantic,2,0,2,0,carving
+Murder on the Orient Express,sexual-attraction,aroused-sexually,1,0,0,-1,carving
+Murder on the Orient Express,long-term-love,love-romantic,2,1,2,0,carving
+Murder on the Orient Express,desire,aroused-sexually,0,0,0,0,carving
+Murder on the Orient Express,romantic-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+Murder on the Orient Express,sexual-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+Murder on the Orient Express,sexual-disgust,disgusted,0,0,3,3,carving
+Murder on the Orient Express,kin-sexual-disgust,disgusted,0,0,3,3,carving
+Murder on the Orient Express,parental-care,love-family,3,2,4,1,carving
+Murder on the Orient Express,parental-investment,love-family,1,2,4,3,carving
+Murder on the Orient Express,familial-love,love-family,3,3,4,1,carving
+2001: A Space Odyssey,hunger,hungry,2,1,2,0,carving
+2001: A Space Odyssey,thirst,thirsty,2,1,2,0,one-to-one
+2001: A Space Odyssey,feeling-cold-hot,too-hot-too-cold,1,3,1,0,one-to-one
+2001: A Space Odyssey,sleepiness,sleepy,2,3,3,1,carving
+2001: A Space Odyssey,curiosity,curious,4,4,4,0,carving
+2001: A Space Odyssey,explanation-seeking,curious,4,4,4,0,carving
+2001: A Space Odyssey,skill-acquisition,focused-in-flow,2,4,2,0,one-to-one
+2001: A Space Odyssey,play,fun-excitement,1,1,2,1,carving
+2001: A Space Odyssey,fear-of-predators,afraid,2,4,4,2,carving
+2001: A Space Odyssey,fear-of-aggressors,afraid,3,4,4,1,carving
+2001: A Space Odyssey,fear-of-heights,afraid,2,2,4,2,carving
+2001: A Space Odyssey,disgust,disgusted,1,2,0,-1,carving
+2001: A Space Odyssey,pain-aversion,pain,2,3,2,0,carving
+2001: A Space Odyssey,pride,proud,2,3,3,1,carving
+2001: A Space Odyssey,shame,shame,1,1,0,-1,one-to-one
+2001: A Space Odyssey,moral-pride,proud,1,2,3,2,carving
+2001: A Space Odyssey,guilt,guilt,1,1,1,0,one-to-one
+2001: A Space Odyssey,warmth,liking-as-a-friend,1,1,2,1,carving
+2001: A Space Odyssey,moral-blame,judgy-moral-sense,1,3,1,0,carving
+2001: A Space Odyssey,moral-praise,admiration,0,3,1,1,carving
+2001: A Space Odyssey,revenge,angry,1,0,2,1,carving
+2001: A Space Odyssey,compassion,compassion,1,1,2,1,carving
+2001: A Space Odyssey,affiliation,liking-as-a-friend,0,3,2,2,carving
+2001: A Space Odyssey,friendship,liking-as-a-friend,2,1,2,0,carving
+2001: A Space Odyssey,sadness,sad,1,2,2,1,carving
+2001: A Space Odyssey,humor,amused,1,2,1,0,one-to-one
+2001: A Space Odyssey,embarrassment,embarrassed,0,1,1,1,one-to-one
+2001: A Space Odyssey,reasoning,understanding,2,4,3,1,carving
+2001: A Space Odyssey,coalitional-affiliation,sense-of-belonging,2,4,2,0,one-to-one
+2001: A Space Odyssey,status-seeking,proud,2,2,3,1,carving
+2001: A Space Odyssey,envy,envious,1,1,0,-1,one-to-one
+2001: A Space Odyssey,anger,angry,1,3,2,1,carving
+2001: A Space Odyssey,hatred,hatred,0,1,2,2,carving
+2001: A Space Odyssey,romantic-affiliation,love-romantic,0,0,0,0,carving
+2001: A Space Odyssey,sexual-attraction,aroused-sexually,0,0,0,0,carving
+2001: A Space Odyssey,long-term-love,love-romantic,0,0,0,0,carving
+2001: A Space Odyssey,desire,aroused-sexually,0,0,0,0,carving
+2001: A Space Odyssey,romantic-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+2001: A Space Odyssey,sexual-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+2001: A Space Odyssey,sexual-disgust,disgusted,0,0,0,0,carving
+2001: A Space Odyssey,kin-sexual-disgust,disgusted,0,0,0,0,carving
+2001: A Space Odyssey,parental-care,love-family,1,0,2,1,carving
+2001: A Space Odyssey,parental-investment,love-family,1,0,2,1,carving
+2001: A Space Odyssey,familial-love,love-family,1,1,2,1,carving
+The Shining,hunger,hungry,1,1,1,0,carving
+The Shining,thirst,thirsty,1,2,1,0,one-to-one
+The Shining,feeling-cold-hot,too-hot-too-cold,3,3,4,1,one-to-one
+The Shining,sleepiness,sleepy,2,3,2,0,carving
+The Shining,curiosity,curious,3,2,3,0,carving
+The Shining,explanation-seeking,curious,3,2,3,0,carving
+The Shining,skill-acquisition,focused-in-flow,1,1,2,1,one-to-one
+The Shining,play,fun-excitement,2,1,2,0,carving
+The Shining,fear-of-predators,afraid,2,0,4,2,carving
+The Shining,fear-of-aggressors,afraid,4,4,4,0,carving
+The Shining,fear-of-heights,afraid,0,0,4,4,carving
+The Shining,disgust,disgusted,3,3,3,0,carving
+The Shining,pain-aversion,pain,3,4,3,0,carving
+The Shining,pride,proud,1,4,2,1,carving
+The Shining,shame,shame,2,4,2,0,one-to-one
+The Shining,moral-pride,proud,1,2,2,1,carving
+The Shining,guilt,guilt,2,3,2,0,one-to-one
+The Shining,warmth,liking-as-a-friend,2,1,2,0,carving
+The Shining,moral-blame,judgy-moral-sense,2,4,2,0,carving
+The Shining,moral-praise,admiration,0,1,0,0,carving
+The Shining,revenge,angry,1,2,4,3,carving
+The Shining,compassion,compassion,3,2,3,0,carving
+The Shining,affiliation,liking-as-a-friend,1,0,2,1,carving
+The Shining,friendship,liking-as-a-friend,1,1,2,1,carving
+The Shining,sadness,sad,1,3,2,1,carving
+The Shining,humor,amused,1,0,2,1,one-to-one
+The Shining,embarrassment,embarrassed,1,0,1,0,one-to-one
+The Shining,reasoning,understanding,1,0,3,2,carving
+The Shining,coalitional-affiliation,sense-of-belonging,1,0,3,2,one-to-one
+The Shining,status-seeking,proud,1,1,2,1,carving
+The Shining,envy,envious,1,0,0,-1,one-to-one
+The Shining,anger,angry,4,4,4,0,carving
+The Shining,hatred,hatred,3,4,3,0,carving
+The Shining,romantic-affiliation,love-romantic,1,0,2,1,carving
+The Shining,sexual-attraction,aroused-sexually,2,0,1,-1,carving
+The Shining,long-term-love,love-romantic,1,2,2,1,carving
+The Shining,desire,aroused-sexually,1,1,1,0,carving
+The Shining,romantic-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+The Shining,sexual-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+The Shining,sexual-disgust,disgusted,2,0,3,1,carving
+The Shining,kin-sexual-disgust,disgusted,0,0,3,3,carving
+The Shining,parental-care,love-family,4,4,4,0,carving
+The Shining,parental-investment,love-family,1,1,4,3,carving
+The Shining,familial-love,love-family,3,2,4,1,carving
+Titanic,hunger,hungry,1,0,0,-1,carving
+Titanic,thirst,thirsty,0,0,0,0,one-to-one
+Titanic,feeling-cold-hot,too-hot-too-cold,4,4,4,0,one-to-one
+Titanic,sleepiness,sleepy,1,1,1,0,carving
+Titanic,curiosity,curious,2,1,3,1,carving
+Titanic,explanation-seeking,curious,2,1,3,1,carving
+Titanic,skill-acquisition,focused-in-flow,2,2,2,0,one-to-one
+Titanic,play,fun-excitement,3,3,3,0,carving
+Titanic,fear-of-predators,afraid,0,0,4,4,carving
+Titanic,fear-of-aggressors,afraid,2,2,4,2,carving
+Titanic,fear-of-heights,afraid,3,3,4,1,carving
+Titanic,disgust,disgusted,1,0,2,1,carving
+Titanic,pain-aversion,pain,3,4,3,0,carving
+Titanic,pride,proud,2,2,3,1,carving
+Titanic,shame,shame,2,3,2,0,one-to-one
+Titanic,moral-pride,proud,3,4,3,0,carving
+Titanic,guilt,guilt,2,1,3,1,one-to-one
+Titanic,warmth,liking-as-a-friend,3,4,3,0,carving
+Titanic,moral-blame,judgy-moral-sense,3,3,3,0,carving
+Titanic,moral-praise,admiration,2,4,3,1,carving
+Titanic,revenge,angry,2,1,3,1,carving
+Titanic,compassion,compassion,3,4,3,0,carving
+Titanic,affiliation,liking-as-a-friend,3,2,3,0,carving
+Titanic,friendship,liking-as-a-friend,2,1,3,1,carving
+Titanic,sadness,sad,4,4,4,0,carving
+Titanic,humor,amused,2,2,2,0,one-to-one
+Titanic,embarrassment,embarrassed,2,3,2,0,one-to-one
+Titanic,reasoning,understanding,2,0,3,1,carving
+Titanic,coalitional-affiliation,sense-of-belonging,3,3,3,0,one-to-one
+Titanic,status-seeking,proud,4,3,3,-1,carving
+Titanic,envy,envious,2,4,1,-1,one-to-one
+Titanic,anger,angry,3,2,3,0,carving
+Titanic,hatred,hatred,2,2,3,1,carving
+Titanic,romantic-affiliation,love-romantic,4,4,4,0,carving
+Titanic,sexual-attraction,aroused-sexually,4,4,3,-1,carving
+Titanic,long-term-love,love-romantic,4,1,4,0,carving
+Titanic,desire,aroused-sexually,1,0,3,2,carving
+Titanic,romantic-jealousy,jealous-romantic-sexual,4,4,4,0,carving
+Titanic,sexual-jealousy,jealous-romantic-sexual,3,4,4,1,carving
+Titanic,sexual-disgust,disgusted,1,2,2,1,carving
+Titanic,kin-sexual-disgust,disgusted,0,0,2,2,carving
+Titanic,parental-care,love-family,2,1,3,1,carving
+Titanic,parental-investment,love-family,1,0,3,2,carving
+Titanic,familial-love,love-family,2,1,3,1,carving
+Harry Potter 1,hunger,hungry,3,2,3,0,carving
+Harry Potter 1,thirst,thirsty,0,0,0,0,one-to-one
+Harry Potter 1,feeling-cold-hot,too-hot-too-cold,1,1,1,0,one-to-one
+Harry Potter 1,sleepiness,sleepy,1,1,2,1,carving
+Harry Potter 1,curiosity,curious,4,4,4,0,carving
+Harry Potter 1,explanation-seeking,curious,4,4,4,0,carving
+Harry Potter 1,skill-acquisition,focused-in-flow,4,4,3,-1,one-to-one
+Harry Potter 1,play,fun-excitement,3,3,4,1,carving
+Harry Potter 1,fear-of-predators,afraid,3,3,4,1,carving
+Harry Potter 1,fear-of-aggressors,afraid,3,4,4,1,carving
+Harry Potter 1,fear-of-heights,afraid,2,1,4,2,carving
+Harry Potter 1,disgust,disgusted,2,0,3,1,carving
+Harry Potter 1,pain-aversion,pain,2,2,3,1,carving
+Harry Potter 1,pride,proud,3,3,3,0,carving
+Harry Potter 1,shame,shame,2,2,2,0,one-to-one
+Harry Potter 1,moral-pride,proud,3,4,3,0,carving
+Harry Potter 1,guilt,guilt,1,2,3,2,one-to-one
+Harry Potter 1,warmth,liking-as-a-friend,3,4,4,1,carving
+Harry Potter 1,moral-blame,judgy-moral-sense,3,3,3,0,carving
+Harry Potter 1,moral-praise,admiration,3,4,3,0,carving
+Harry Potter 1,revenge,angry,1,1,3,2,carving
+Harry Potter 1,compassion,compassion,2,3,3,1,carving
+Harry Potter 1,affiliation,liking-as-a-friend,4,4,4,0,carving
+Harry Potter 1,friendship,liking-as-a-friend,4,4,4,0,carving
+Harry Potter 1,sadness,sad,2,3,2,0,carving
+Harry Potter 1,humor,amused,3,2,3,0,one-to-one
+Harry Potter 1,embarrassment,embarrassed,2,2,3,1,one-to-one
+Harry Potter 1,reasoning,understanding,2,3,3,1,carving
+Harry Potter 1,coalitional-affiliation,sense-of-belonging,4,4,4,0,one-to-one
+Harry Potter 1,status-seeking,proud,3,2,3,0,carving
+Harry Potter 1,envy,envious,2,2,3,1,one-to-one
+Harry Potter 1,anger,angry,2,3,3,1,carving
+Harry Potter 1,hatred,hatred,2,3,3,1,carving
+Harry Potter 1,romantic-affiliation,love-romantic,0,1,0,0,carving
+Harry Potter 1,sexual-attraction,aroused-sexually,0,0,0,0,carving
+Harry Potter 1,long-term-love,love-romantic,1,2,0,-1,carving
+Harry Potter 1,desire,aroused-sexually,0,0,0,0,carving
+Harry Potter 1,romantic-jealousy,jealous-romantic-sexual,0,1,0,0,carving
+Harry Potter 1,sexual-jealousy,jealous-romantic-sexual,0,0,0,0,carving
+Harry Potter 1,sexual-disgust,disgusted,0,0,3,3,carving
+Harry Potter 1,kin-sexual-disgust,disgusted,0,0,3,3,carving
+Harry Potter 1,parental-care,love-family,3,4,4,1,carving
+Harry Potter 1,parental-investment,love-family,2,4,4,2,carving
+Harry Potter 1,familial-love,love-family,3,3,4,1,carving
+One Piece,hunger,hungry,4,4,4,0,carving
+One Piece,thirst,thirsty,2,1,3,1,one-to-one
+One Piece,feeling-cold-hot,too-hot-too-cold,3,3,3,0,one-to-one
+One Piece,sleepiness,sleepy,2,2,2,0,carving
+One Piece,curiosity,curious,4,4,4,0,carving
+One Piece,explanation-seeking,curious,3,4,4,1,carving
+One Piece,skill-acquisition,focused-in-flow,4,4,3,-1,one-to-one
+One Piece,play,fun-excitement,3,3,4,1,carving
+One Piece,fear-of-predators,afraid,3,3,4,1,carving
+One Piece,fear-of-aggressors,afraid,4,4,4,0,carving
+One Piece,fear-of-heights,afraid,2,3,4,2,carving
+One Piece,disgust,disgusted,2,3,3,1,carving
+One Piece,pain-aversion,pain,4,3,4,0,carving
+One Piece,pride,proud,4,4,4,0,carving
+One Piece,shame,shame,3,2,3,0,one-to-one
+One Piece,moral-pride,proud,4,4,4,0,carving
+One Piece,guilt,guilt,3,3,3,0,one-to-one
+One Piece,warmth,liking-as-a-friend,4,4,4,0,carving
+One Piece,moral-blame,judgy-moral-sense,3,4,4,1,carving
+One Piece,moral-praise,admiration,3,4,4,1,carving
+One Piece,revenge,angry,3,2,4,1,carving
+One Piece,compassion,compassion,4,4,4,0,carving
+One Piece,affiliation,liking-as-a-friend,4,4,4,0,carving
+One Piece,friendship,liking-as-a-friend,4,4,4,0,carving
+One Piece,sadness,sad,4,2,4,0,carving
+One Piece,humor,amused,4,3,4,0,one-to-one
+One Piece,embarrassment,embarrassed,2,2,3,1,one-to-one
+One Piece,reasoning,understanding,2,1,3,1,carving
+One Piece,coalitional-affiliation,sense-of-belonging,4,4,4,0,one-to-one
+One Piece,status-seeking,proud,4,4,4,0,carving
+One Piece,envy,envious,2,2,2,0,one-to-one
+One Piece,anger,angry,3,4,4,1,carving
+One Piece,hatred,hatred,3,1,4,1,carving
+One Piece,romantic-affiliation,love-romantic,2,0,2,0,carving
+One Piece,sexual-attraction,aroused-sexually,3,1,2,-1,carving
+One Piece,long-term-love,love-romantic,2,0,2,0,carving
+One Piece,desire,aroused-sexually,2,0,2,0,carving
+One Piece,romantic-jealousy,jealous-romantic-sexual,1,0,1,0,carving
+One Piece,sexual-jealousy,jealous-romantic-sexual,1,0,1,0,carving
+One Piece,sexual-disgust,disgusted,2,0,3,1,carving
+One Piece,kin-sexual-disgust,disgusted,0,0,3,3,carving
+One Piece,parental-care,love-family,3,2,4,1,carving
+One Piece,parental-investment,love-family,3,2,4,1,carving
+One Piece,familial-love,love-family,4,2,4,0,carving

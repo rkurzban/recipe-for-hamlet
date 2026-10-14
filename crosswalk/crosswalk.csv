@@ -1,0 +1,49 @@
+ingredient,feels,note
+hunger,hungry;sensory-pleasures,
+thirst,thirsty,
+feeling-cold-hot,too-hot-too-cold,
+sleepiness,sleepy;fatigued,
+curiosity,curious,
+explanation-seeking,curious;understanding;confused,the feeling of wanting to know and the feeling of having found out
+skill-acquisition,focused-in-flow,practice is the activity; absorption is the feeling that attends it
+play,fun-excitement;joyful-euphoric;aesthetic-pleasures,"the ingredient list has no row for aesthetic pleasure; Play is its nearest neighbour, a weak match"
+resource-accumulation,,an activity; the nearest feeling (greedy) is not in the book
+resource-foraging,,an activity
+mental-time-travel,,an activity; the feelings that attend it (anticipation; nostalgia) are scored separately
+fear-of-predators,afraid;anxious;panic,three fears to one Afraid; the book also splits Anxious and Panic from Afraid
+fear-of-aggressors,afraid;anxious;panic,three fears to one Afraid
+fear-of-heights,afraid;anxious;panic,three fears to one Afraid
+disgust,disgusted,three disgusts to one Disgusted
+pain-aversion,pain;fatigued,
+pride,proud,
+shame,shame,
+moral-pride,proud,
+guilt,guilt,
+warmth,liking-as-a-friend;compassion,cues of kindness
+moral-blame,judgy-moral-sense;contempt,
+moral-praise,admiration;elevation,
+revenge,angry;resentment;schadenfreude,schadenfreude is revenge enjoyed at a distance
+forgiveness,,no feel; the book treats forgiveness as a gauge resetting
+compassion,compassion;empathy,
+affiliation,liking-as-a-friend;sense-of-belonging,they name the goal; the book names the feeling
+friendship,liking-as-a-friend,
+sadness,sad;grief;missing-someone;depressed,one sadness to four Feels
+humor,amused,
+embarrassment,embarrassed,
+reasoning,understanding;feeling-of-knowing;uncertain-certain;skeptical-doubtful;confused,the epistemic Feels: what reasoning feels like while it runs and when it stops
+coalitional-affiliation,sense-of-belonging,
+status-seeking,proud;envious,
+envy,envious,
+anger,angry;rage,
+hatred,hatred;contempt,
+romantic-affiliation,love-romantic;infatuation,
+sexual-attraction,aroused-sexually,
+long-term-love,love-romantic,
+desire,aroused-sexually;infatuation,
+romantic-jealousy,jealous-romantic-sexual,
+sexual-jealousy,jealous-romantic-sexual,
+sexual-disgust,disgusted,three disgusts to one Disgusted
+kin-sexual-disgust,disgusted,three disgusts to one Disgusted
+parental-care,love-family,three kin rows to one Love (Family)
+parental-investment,love-family,three kin rows to one Love (Family)
+familial-love,love-family,three kin rows to one Love (Family)
